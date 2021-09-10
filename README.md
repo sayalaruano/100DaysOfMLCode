@@ -2,7 +2,7 @@
 
 ## Overview 
 
-100DaysOfMLCode is a commitment to improving my understanding of Machine Learning by dedicating at least 1 hour every day to studying and/or coding ML for 100 days.
+**100DaysOfMLCode** is a commitment to improving my understanding of Machine Learning by dedicating at least 1 hour every day to studying and/or coding ML for 100 days.
 
 All my progress is documented in the [log.md](log.md) file of this repo. Also, the code and projects I will be working on during this challenge will be available on this repo. 
 
