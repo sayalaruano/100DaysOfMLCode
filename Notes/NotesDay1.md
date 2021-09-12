@@ -1,6 +1,6 @@
 # NotesDay1
 
-## Machine Learning Zoomcamp
+## Machine Learning Zoomcamp first week 
 ### 1. Introduction to ML
 The concept of ML was depicted with an example of predicting the prize of a car. The ML model learns from data, represented as 
 some **features** such as year, mileage, among others, and the **target** variable, in this case the car's prize. Then, the model extracts patterns 
