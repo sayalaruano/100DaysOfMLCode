@@ -3,7 +3,7 @@
 ## Machine Learning Zoomcamp first week 
 ### 1. Introduction to ML
 The concept of ML was depicted with an example of predicting the price of a car. The ML model learns from data, represented as 
-some **features** such as year, mileage, among others, and the **target** variable, in this case, the car's prize. Then, the model extracts patterns 
+some **features** such as year, mileage, among others, and the **target** variable, in this case, the car's price. Then, the model extracts patterns 
 from the data and predicts the price of cars that were not considered in the training data. 
 
 In summary, ML is a process of **extracting patterns from data**, which is of two types: features (information about the object) and target (correct predictions). 
