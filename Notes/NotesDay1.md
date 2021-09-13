@@ -48,7 +48,7 @@ In general, ML projects require many iterations.
 ## 5. Model Selection Process
 
 The validation dataset is not used in training. There are feature matrices and y vectors for both training and validation datasets. 
-The model is fitted with training data, and it is used to predict y values of the validation feature matrix. Then, the predicted the y values (probabilities)
+The model is fitted with training data, and it is used to predict the y values of the validation feature matrix. Then, the predicted y values (probabilities)
 are compared with the actual y values. 
 
 **Multiple comparisons problem:** just by chance one model can be lucky and obtain good predictions because all of them are probabilistic. 
