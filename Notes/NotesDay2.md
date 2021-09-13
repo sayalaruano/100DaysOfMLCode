@@ -1,4 +1,4 @@
-# NotesDay1
+# NotesDay2
 
 ## Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow chapter 1 - The Machine
 Learning Landscape
