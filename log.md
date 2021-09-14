@@ -2,7 +2,7 @@
 
 Hi! I am Sebastián, a Machine Learning enthusiast and this is my log for the 100DaysOfMLCode Challenge.
 
-## Day 1: September 10 , 2021
+## Day 1: September 10, 2021
 
 **Today's Progress** : I have completed the [first week material of the mlzoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/01-intro). 
 In general, I learnt about concept of ML with an example of prediction of car's prizes, differences between ML vs Rule-bases systems, supervised ML tasks, the 
@@ -16,7 +16,7 @@ exercises were not very difficult. However, this review was useful to remember a
 * [NotesDay1](Notes/NotesDay1.md)
 * [Jupyter notebook of the homework of the first week of mlzoomcamp](Intro_ML/Homework_week1_mlzoomcamp.ipynb)
 
-## Day 2: September 11 , 2021
+## Day 2: September 11, 2021
 
 **Today's Progress** : I have completed the first chapter of the book [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). 
 In general, I learnt about concept the of ML, why these models are important and some examples, types of ML systems, the main challenges of ML, the importance of 
@@ -29,7 +29,7 @@ assumptions about the data to choose a few reasonable models, instead of testing
 **Link of Work:** 
 * [NotesDay2](Notes/NotesDay1.md)
 
-## Day 3: September 12 , 2021
+## Day 3: September 12, 2021
 
 **Today's Progress** : I have completed the second chapter of the book [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). 
 In general, I learnt about the steps followed to make a complete ML project, including understanding of the problem, data obtention, exploratory data analysis, 
@@ -40,3 +40,18 @@ pre-processing and pipelines, general sklearn design of classes, cross-validatio
 
 **Link of Work:** 
 * [NotesDay3](Notes/NotesDay3.md)
+
+## Day 4: September 13, 2021
+
+**Today's Progress** : I watched the [first part of the lecture Traditional Feature-based Methods](https://www.youtube.com/watch?v=3IS7UhNMQ3U&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=4) 
+from the Stanford's course [Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/). This lecture covered the graph's features that can be used for 
+training ML models, particularly those derived from nodes. The information-based features included node degree and some centrality measures such as eigenvector, 
+betweenness, and closeness centralities. The structure-based features were node degree, clustering cofficient, and graphlet degree vectors. All f these features can 
+be used for making predictions of unknown labels from certain nodes. 
+
+**Thoughts** : The lecture had a lot of useful concepts of graph features used for training ML models, particularly the node features. I enjoyed reminding some concepts 
+of network science such as centrality measures, clustering coefficient, and graphlets. However, I am intrigued about the way by which all of these features are 
+converted to data that the ML model can interpret. 
+
+**Link of Work:** 
+* [NotesDay4](Notes/NotesDay4.md)
