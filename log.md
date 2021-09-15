@@ -55,3 +55,15 @@ converted to data that the ML model can interpret.
 
 **Link of Work:** 
 * [NotesDay4](Notes/NotesDay4.md)
+
+## Day 5: September 14, 2021
+
+**Today's Progress** :I have completed half of the content of the [second week material of the mlzoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/02-regression). 
+In general, I learnt about data preparation, exploratory data analysis, setting up the validation framework, and the application of linear regression model for predicting car prices. Also, we 
+understand the internals of linear regression. 
+
+**Thoughts** : I enjoyed the videos of this session, especially the understanding of linear regression model in its vectorized form, and how it can be solved by 
+finding the vector of weights or coefficients form the Normal equation. 
+
+**Link of Work:** 
+* [NotesDay5](Notes/NotesDay5.md)
