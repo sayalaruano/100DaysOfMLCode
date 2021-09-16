@@ -67,3 +67,16 @@ finding the vector of weights or coefficients form the Normal equation.
 
 **Link of Work:** 
 * [NotesDay5](Notes/NotesDay5.md)
+
+## Day 6: September 15, 2021
+
+**Today's Progress** :I have completed all the content of the [second week material of the mlzoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/02-regression). 
+This material included data preparation, exploratory data analysis, the validation framework, linear regression model, LR vector and normal forms, the baseline model, root mean squared error, feature engineering, regularization, tuning the model, 
+and using the best model with new data. All these concepts were explanied using the problem to preditc the price of cars. 
+
+**Thoughts** : For the first time, I understand regularization and what it represents in the feature matrix, which in brief adds some small values to the 
+diagonal of this matrix, and in this way there are not duplicated colummns. Also, it was interesting to see the entire workflow in a regression problem, including
+explanations of all of these secions. 
+
+**Link of Work:** 
+* [NotesDay6](Notes/NotesDay6.md)

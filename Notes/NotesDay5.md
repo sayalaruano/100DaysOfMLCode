@@ -44,7 +44,7 @@ The code and dataset are available at this [link](https://github.com/alexeygrigo
 **Numpy methods:**
 * np.log1p() - applies log transformation to a variable and adds one to each result 
 
-Long-tail distributions usually confuse the ML models,  so the recommendation is to transform the target variable distribution to a normal one whenever possible. 
+Long-tail distributions usually confuse the ML models, so the recommendation is to transform the target variable distribution to a normal one whenever possible. 
 
 ## 2.4 Setting up the validation framework
 
