@@ -58,7 +58,7 @@ converted to data that the ML model can interpret.
 
 ## Day 5: September 14, 2021
 
-**Today's Progress** :I have completed half of the content of the [second week material of the mlzoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/02-regression). 
+**Today's Progress** :I have completed half of the content for the [second week material of the mlzoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/02-regression). 
 In general, I learnt about data preparation, exploratory data analysis, setting up the validation framework, and the application of linear regression model for predicting car prices. Also, we 
 understand the internals of linear regression. 
 
@@ -70,7 +70,7 @@ finding the vector of weights or coefficients form the Normal equation.
 
 ## Day 6: September 15, 2021
 
-**Today's Progress** :I have completed all the content of the [second week material of the mlzoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/02-regression). 
+**Today's Progress** :I have completed all the content for the [second week material of the mlzoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/02-regression). 
 This material included data preparation, exploratory data analysis, the validation framework, linear regression model, LR vector and normal forms, the baseline model, root mean squared error, feature engineering, regularization, tuning the model, 
 and using the best model with new data. All these concepts were explanied using the problem to preditc the price of cars. 
 
@@ -80,3 +80,14 @@ explanations of all of these secions.
 
 **Link of Work:** 
 * [NotesDay6](Notes/NotesDay6.md)
+
+## Day 7: September 16, 2021
+
+**Today's Progress** : I have completed the homework for the [second week of mlzoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/02-regression/homework.md). 
+The homework was about the creation of a regression model for predicting apartment prices using Kaggle's dataset  [New York City Airbnb Open Data](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data?select=AB_NYC_2019.csv). 
+
+**Thoughts** : I enjoyed this homework because it synthesized all the contents learned during the second week of mlzoomcamp. Also, it was great to work with real 
+data and apply all the steps of pre-processing, data exploratory analysis, regularization, and fine-tuning. 
+
+**Link of Work:** 
+* [Jupyter notebook of the homework of the second week of mlzoomcamp](Regression/Homework_week2_mlzoomcamp.ipynb)
