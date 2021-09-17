@@ -95,7 +95,7 @@ data and apply all the steps of pre-processing, data exploratory analysis, regul
 ## Day 8: September 17, 2021
 
 **Today's Progress** : I built a regression model for the Kaggle's competition [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
-The competition was about the creation of a regression model for predicting house prices using Kaggle's dataset [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data). 
+The competition was about the creation of a regression model for predicting house prices using the dataset of this competition. 
 I applied some new tools for me, including sklearn and pandas profiling libraries. 
 
 **Thoughts** : This competition was nice because I practiced all what I learned about regression on a real problem. Also, I explored new libraries such as
