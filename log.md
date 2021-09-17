@@ -14,7 +14,7 @@ exercises were not very difficult. However, this review was useful to remember a
 
 **Link of Work:** 
 * [NotesDay1](Notes/NotesDay1.md)
-* [Jupyter notebook of the homework of the first week of mlzoomcamp](Intro_ML/Homework_week1_mlzoomcamp.ipynb)
+* [Jupyter notebook of the homework for the first week of mlzoomcamp](Intro_ML/Homework_week1_mlzoomcamp.ipynb)
 
 ## Day 2: September 11, 2021
 
@@ -90,4 +90,16 @@ The homework was about the creation of a regression model for predicting apartme
 data and apply all the steps of pre-processing, data exploratory analysis, regularization, and fine-tuning. 
 
 **Link of Work:** 
-* [Jupyter notebook of the homework of the second week of mlzoomcamp](Regression/Homework_week2_mlzoomcamp.ipynb)
+* [Jupyter notebook of the homework for the second week of mlzoomcamp](Regression/Homework_week2_mlzoomcamp.ipynb)
+
+## Day 8: September 17, 2021
+
+**Today's Progress** : I built a regression model for the Kaggle's competition [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
+The competition was about the creation of a regression model for predicting house prices using Kaggle's dataset [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data). 
+I applied some new tools for me, including sklearn and pandas profiling libraries. 
+
+**Thoughts** : This competition was nice because I practiced all what I learned about regression on a real problem. Also, I explored new libraries such as
+pandas profiling for EDA and Scikit-learn for pre-processing, regularization, fine-tuning, and training my models. 
+
+**Link of Work:** 
+* [Jupyter notebook of the House Prices - Advanced Regression Techniques competition](Regression/House_Prices_Advanced_Regression_Techniques_Kaggle.ipynb)
