@@ -103,3 +103,12 @@ pandas profiling for EDA and Scikit-learn for pre-processing, regularization, fi
 
 **Link of Work:** 
 * [Jupyter notebook of the House Prices - Advanced Regression Techniques competition](Regression/House_Prices_Advanced_Regression_Techniques_Kaggle.ipynb)
+
+## Day 9: September 20, 2021
+
+**Today's Progress** : I attended the [week 3 ML Zoomcamp Office Hours](https://www.youtube.com/watch?v=JC3TQw34-m0). In this session, we reviewed the homework of this week and answered questions regarding regression problems. 
+
+**Thoughts** : I verified that all answers of my homework were correct, and I also learned different ways to solve the same questions. 
+
+**Link of Work:** 
+* [Jupyter notebook of the homework for the second week of mlzoomcamp](Regression/Homework_week2_mlzoomcamp.ipynb)
