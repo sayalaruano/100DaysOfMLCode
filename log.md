@@ -112,3 +112,13 @@ pandas profiling for EDA and Scikit-learn for pre-processing, regularization, fi
 
 **Link of Work:** 
 * [Jupyter notebook of the homework for the second week of mlzoomcamp](Regression/Homework_week2_mlzoomcamp.ipynb)
+
+## Day 10: September 21, 2021
+
+**Today's Progress** : I read most of the fourth chapter of the book [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). 
+I learnt about Linear regression, and different ways to train this model, including the Normal Equation, Singular Value Descomposition, and different implementations of Gradient descent (Batch, Stochastic, and mini-batch). Also, this chapter had information about polynomial regression, learning curves, and regularized linear models, including Ridge, Lassso, and ElasticNet. 
+
+**Thoughts** : I enjoyed to learn different ways for training a linear model, as well as their advantages and downsides. Also, I understand how to interpret the learning curves, and the errors associated to underfitting and overfitting models. Finally, it was interesting to learn different ways to regularize a linear regression model. 
+
+**Link of Work:** 
+* [NotesDay10](Notes/NotesDay10.md)
