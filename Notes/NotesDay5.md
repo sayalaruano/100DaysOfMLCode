@@ -33,8 +33,8 @@ The code and dataset are available at this [link](https://github.com/alexeygrigo
 **Pandas attributes and methods:** 
 
 * df[col].unique() - returns a list of unique values in the series 
-* df[col].nunique() - returns the numer of unique values in the series 
-* df.isnull().sum() - retunrs the numer of null values in the dataframe 
+* df[col].nunique() - returns the number of unique values in the series 
+* df.isnull().sum() - retunrs the number of null values in the dataframe 
 
 **Matplotlib and seaborn methods:**
 
