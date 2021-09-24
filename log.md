@@ -131,3 +131,13 @@ I learnt about Linear regression, and different ways to train this model, includ
 
 **Link of Work:** 
 * [NotesDay11](Notes/NotesDay11.md)
+
+## Day 12: September 24, 2021
+
+**Today's Progress:** I completed the homework for the [third week of mlzoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/03-classification/homework.md). 
+The homework was about the creation of a classification model for predicting apartment prices using Kaggle's dataset  [New York City Airbnb Open Data](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data?select=AB_NYC_2019.csv). We used Scikit-Learn classes and methods for all stages of this project. 
+
+**Thoughts:** This homework was nice because it summarized all contents of the third week of mlzoomcamp. I encountered some problems with the convergence of Scikit-Learn's Logistic regression with the method `lbfgs`. Also, I realized that for classification tasks all the target values must be binarized to make the predictions. 
+
+**Link of Work:** 
+* [Jupyter notebook of the homework for the third week of mlzoomcamp](Classification/Homework_week3_mlzoomcamp_classification.ipynb)
