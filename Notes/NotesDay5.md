@@ -28,6 +28,8 @@ The code and dataset are available at this [link](https://github.com/alexeygrigo
 * df.dtypes - retrieve data types of all features 
 * df.index - retrive indices of a dataframe
 
+The entire code of this project is available in [this jupyter notebook](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/chapter-02-car-price/02-carprice.ipynb).  
+
 ## 2.3 Exploratory Data Analysis
 
 **Pandas attributes and methods:** 
@@ -46,6 +48,8 @@ The code and dataset are available at this [link](https://github.com/alexeygrigo
 
 Long-tail distributions usually confuse the ML models, so the recommendation is to transform the target variable distribution to a normal one whenever possible. 
 
+The entire code of this project is available in [this jupyter notebook](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/chapter-02-car-price/02-carprice.ipynb).  
+
 ## 2.4 Setting up the validation framework
 
 In general, the dataset is split into three parts: training, validation, and test. For each partition, we need to obtain feature matrices (X) and y vectors of targets. First, the size of partitions is calculated, records are shuffled to guarantee that values of the three partitions contain non-sequential records of the dataset, and the partitions are created with the shuffled indices. 
@@ -61,6 +65,8 @@ In general, the dataset is split into three parts: training, validation, and tes
 * np.random.shuffle() - retturns a suffled array
 * np.random.seed() - set a seed 
 
+The entire code of this project is available in [this jupyter notebook](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/chapter-02-car-price/02-carprice.ipynb).  
+
 ## 2.5 Linear regression
 
 Model for solving regression tasks, in which the objective is to adjust a line for the data and make predictions on new values. The input of this model is 
@@ -68,11 +74,15 @@ the feature matrix and a y vector of predictions is obtained, trying to be as cl
 bias term (WO), which refers to the predictions if there is no information, and each of the feature values times their corresponding weights. We need to 
 assure that the result is showed on the untransformed scale. 
 
+The entire code of this project is available in [this jupyter notebook](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/chapter-02-car-price/02-carprice.ipynb).  
+
 ## 2.6 Linear regression: vector form
 
 The formula of LR can be synthesized with the dot product between features and weights. The feature vector includes the bias term with an x value of one. 
 When all the records are included, the LR can be calculated with the dot product between feature matrix and vector of weights, obtaining the y vector of 
 predictions. 
+
+The entire code of this project is available in [this jupyter notebook](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/chapter-02-car-price/02-carprice.ipynb).  
 
 ## 2.7 Training linear regression: Normal equation
 
@@ -80,3 +90,5 @@ Obtaining predictions as close as possible to y target values requires the calcu
 have an inverse because it is not square, so it is required to obtain an approximate solution, which can be obtained using the **Gram matrix** 
 (multiplication of feature matrix and its transpose). The vector of weights or coefficients obtained with this formula is the closest possible solution to 
 the LR system.
+
+The entire code of this project is available in [this jupyter notebook](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/chapter-02-car-price/02-carprice.ipynb).  

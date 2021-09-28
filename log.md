@@ -141,3 +141,13 @@ The homework was about the creation of a classification model for predicting apa
 
 **Link of Work:** 
 * [Jupyter notebook of the homework for the third week of mlzoomcamp](Classification/Homework_week3_mlzoomcamp_classification.ipynb)
+
+## Day 13: September 27, 2021
+
+**Today's Progress:** I attended the [week 4 ML Zoomcamp Office Hours](https://www.youtube.com/watch?v=JC3TQw34-m0). In this session, we reviewed the homework of this week and answered questions regarding logistic regression and classification tasks. Also, I read the Logistic regression content from the fourth chapter of the book [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/).  
+
+**Thoughts:** I verified that all answers of my homework were correct, and learned different ways to solve these questions. Also, I learned about Softmax Regression as a generalization of Logistic regression, and its cost function - cross entropy.
+
+**Link of Work:** 
+* [Jupyter notebook of the homework for the third week of mlzoomcamp](Classification/Homework_week3_mlzoomcamp_classification.ipynb)
+* [NotesDay13](Notes/NotesDay11.md)
