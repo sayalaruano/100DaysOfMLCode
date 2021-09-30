@@ -151,3 +151,13 @@ The homework was about the creation of a classification model for predicting apa
 **Link of Work:** 
 * [Jupyter notebook of the homework for the third week of mlzoomcamp](Classification/Homework_week3_mlzoomcamp_classification.ipynb)
 * [NotesDay13](Notes/NotesDay11.md)
+
+## Day 14: September 29, 2021
+
+**Today's Progress:** I have completed half of the content for the [fourth week material of the mlzoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/02-regression). 
+In general, I learnt about different metrics to evaluate a binary classifier, including accuracy, confusion table, precision and recall.  
+
+**Thoughts:** I enjoyed the videos of this session, especially the understanding of confusion table, a metric that I have never seen before. 
+
+**Link of Work:** 
+* [NotesDay14](Notes/NotesDay14.md)
