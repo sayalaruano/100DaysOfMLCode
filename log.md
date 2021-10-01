@@ -161,3 +161,13 @@ In general, I learnt about different metrics to evaluate a binary classifier, in
 
 **Link of Work:** 
 * [NotesDay14](Notes/NotesDay14.md)
+
+## Day 15: September 30, 2021
+
+**Today's Progress:** I have completed all the content for the [fourth week material of the mlzoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/02-regression). 
+I learnt about different metrics to evaluate a binary classifier, including ROC curves and AUROC. Also, I understand the concept of cross-validation to evaluate the model in different partitions and obtain a more robust result. 
+
+**Thoughts:** I really like to understand the concepts of ROC curves and AUROC in a extended manner, which I have never did before. 
+
+**Link of Work:** 
+* [NotesDay15](Notes/NotesDay15.md)
