@@ -90,7 +90,7 @@ The homework was about the creation of a regression model for predicting apartme
 data and apply all the steps of pre-processing, data exploratory analysis, regularization, and fine-tuning. 
 
 **Link of Work:** 
-* [Jupyter notebook of the homework for the second week of mlzoomcamp](Regression/Homework_week2_mlzoomcamp.ipynb)
+* [Jupyter notebook of the homework for the second week of mlzoomcamp](Regression/Homework_week2_mlzoomcamp_reg_car_price_pred.ipynb)
 
 ## Day 8: September 17, 2021
 
@@ -111,7 +111,7 @@ pandas profiling for EDA and Scikit-learn for pre-processing, regularization, fi
 **Thoughts:** I verified that all answers of my homework were correct, and I also learned different ways to solve the same questions. 
 
 **Link of Work:** 
-* [Jupyter notebook of the homework for the second week of mlzoomcamp](Regression/Homework_week2_mlzoomcamp.ipynb)
+* [Jupyter notebook of the homework for the second week of mlzoomcamp](Regression/Homework_week2_mlzoomcamp_reg_car_price_pred.ipynb)
 
 ## Day 10: September 21, 2021
 
@@ -140,7 +140,7 @@ The homework was about the creation of a classification model for predicting apa
 **Thoughts:** This homework was nice because it summarized all contents of the third week of mlzoomcamp. I encountered some problems with the convergence of Scikit-Learn's Logistic regression with the method `lbfgs`. Also, I realized that for classification tasks all the target values must be binarized to make the predictions. 
 
 **Link of Work:** 
-* [Jupyter notebook of the homework for the third week of mlzoomcamp](Classification/Homework_week3_mlzoomcamp_classification.ipynb)
+* [Jupyter notebook of the homework for the third week of mlzoomcamp](Classification/Homework_week3_mlzoomcamp_classification_churning.ipynb)
 
 ## Day 13: September 27, 2021
 
@@ -149,7 +149,7 @@ The homework was about the creation of a classification model for predicting apa
 **Thoughts:** I verified that all answers of my homework were correct, and learned different ways to solve these questions. Also, I learned about Softmax Regression as a generalization of Logistic regression, and its cost function - cross entropy.
 
 **Link of Work:** 
-* [Jupyter notebook of the homework for the third week of mlzoomcamp](Classification/Homework_week3_mlzoomcamp_classification.ipynb)
+* [Jupyter notebook of the homework for the third week of mlzoomcamp](Classification/Homework_week3_mlzoomcamp_classification_churning.ipynb)
 * [NotesDay13](Notes/NotesDay11.md)
 
 ## Day 14: September 29, 2021
@@ -171,3 +171,13 @@ I learnt about different metrics to evaluate a binary classifier, including ROC 
 
 **Link of Work:** 
 * [NotesDay15](Notes/NotesDay15.md)
+
+## Day 16: October 1, 2021
+
+**Today's Progress:** I have completed the homework for the [fourth week of mlzoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/04-evaluation/homework.md). 
+The homework was about the evaluation of a classifier using different metrics learned during this lesson. The dataset was about  credit scoring, and it is available at [this link](https://github.com/gastonstat/CreditScoring). 
+
+**Thoughts:** I enjoyed this homework because it synthesized all the contents learned during the fourth week of mlzoomcamp. It was interesting to understand the PR curves, F1 score, and cross-validation.
+
+**Link of Work:** 
+* [Jupyter notebook of the homework for the fourth week of mlzoomcamp](Classification/Homework_week4_mlzoomcamp_classification_credit_scoring.ipynb)

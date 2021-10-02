@@ -42,39 +42,29 @@ The entire code of this project is available in [this jupyter notebook](https://
 
 ## 4.7 Cross-validation
 
-Confusion table is a way to measure different types of errors and correct decisions that binary classifiers can made. Considering this information, it is possible evaluate the quality of the model by different strategies.
+**Cross-validarions** refers to evaluating the same model on different subsets of a dataset, getting the average prediction, and spread within predictions. This method is applied in the **parameter tuning** step, which is the process of selecting the best parameter. 
 
-If we predict the probability of churning from a customer, we have the following scenarios:
+In this algorithm, the full training dataset is divided into **k partitions**, we train the model in k-1 partiions of this dataset and evaluate it on the remaining subset. Then, we end up evaluating the model in all the k folds, and we calculate the average evaluation metric for all the folds.  
 
-* No churn - **Negative class**
-    * Customer did not churn - **True Negative (TN)**
-    * Customer churned - **False Negative (FN)**
-* Churn - **Positive class**
-    * Customer churned - **True Positive (TP)**
-    * Customer did not churn - **False Positive (FP)**
+In general, if the dataset is large, we should use the hold-out validation dataset strategy. In the other hand, if the dataset is small or we want to know the standard deviation of the model across different folds, we can use the cross-validation approach. 
 
-The confusion table help us to summarize the measures explained above in a tabular format, as is shown above: 
+**Libraries, classes and methods:** 
 
-|**Actual/Predictions**|**Negative**|**Postive**|
-|:-:|---|---|
-|**Negative**|TN|FP|
-|**Postive**|FN|TP| 
-
-The **accuracy** corresponds to the sum of TN and TP divided by the total of observations. 
+* `Kfold(k, s, x)` - sklearn.model_selection class for calculating the cross validation with k folds, s boolean attribute for shuffle decision, and an x random state
+* `Kfold.split(x)` - sklearn.Kfold method for splitting the x dataset with the attributes established in the Kfold's object construction.
+* `for i in tqdm()` - library for showing the progress of each i iteration in a for loop. 
 
 The code of this project is available in [this jupyter notebook](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/04-evaluation/notebook.ipynb).  
 
-## 3.4 Precision and Recall
-**Precision** tell us the fraction of positive predictions that are correct. It takes into account only the **positive class** (TP and FP), as is stated in the following formula:
+## 4.8 Summary
+General definitions: 
 
-<p align="center">
-    <img src="https://render.githubusercontent.com/render/math?math=\large \frac{TP}{TP %2B FP}"/>
-</p>
+* **Metric:** A single number that describes the performance of a model
+* **Accuracy:** Fraction of correct answers; sometimes misleading 
+* Precision and recall are less misleading when we have class inbalance
+* **ROC Curve:** A way to evaluate the performance at all thresholds; okay to use with imbalance
+* **K-Fold CV:** More reliable estimate for performance (mean + std)
 
-**Recall** measures the fraction of correctly identified postive instances. It considers parts of the **postive and negative classes** (TP and FN). The formula of this metric is presented below: 
+In brief, this weeks was about different metrics to evaluate a binary classifier. These measures included accuracy, confusion table, precision, recall, ROC curves(TPR, FRP, random model, and ideal model), and AUROC. Also, we talked about a different way to estimate the performance of the model and make the parameter tuning with cross-validation. 
 
-<p align="center">
-    <img src="https://render.githubusercontent.com/render/math?math=\large \frac{TP}{TP %2B FN}"/>
-</p>
-
- In this problem, the precision and recall values were 67% and 54% respectively. So, these measures reflect some errors of our model that accuracy did not notice due to the **class imbalance**. 
+The code of this project is available in [this jupyter notebook](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/04-evaluation/notebook.ipynb).  
