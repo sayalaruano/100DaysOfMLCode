@@ -13,8 +13,8 @@ I already knew most of the content from recap of numpy, linear algebra and panda
 exercises were not very difficult. However, this review was useful to remember all the concepts that I will use later in the course and other ML projects. 
 
 **Link of Work:** 
-* [NotesDay1](Notes/NotesDay1.md)
-* [Jupyter notebook of the homework for the first week of mlzoomcamp](Intro_ML/Homework_week1_mlzoomcamp.ipynb)
+* [NotesDay1](Intro_ML/Notes/NotesDay1.md)
+* [Jupyter notebook of the homework for the first week of mlzoomcamp](Intro_ML/Notebooks/Homework_week1_mlzoomcamp_car_price_prediction.ipynb)
 
 ## Day 2: September 11, 2021
 
@@ -27,7 +27,7 @@ with train+val datasets, and what is the importance of cross-validation strategy
 assumptions about the data to choose a few reasonable models, instead of testing all of them. Something that I did not understant was the **train-dev set**. 
 
 **Link of Work:** 
-* [NotesDay2](Notes/NotesDay1.md)
+* [NotesDay2](Intro_ML/Notes/NotesDay1.md)
 
 ## Day 3: September 12, 2021
 
@@ -39,7 +39,7 @@ data cleaning and pre-processing, feature engineering, model's training and eval
 pre-processing and pipelines, general sklearn design of classes, cross-validation, GridSearchCV and RandomizedSearchCV, and the code examples to perform all the analysis. 
 
 **Link of Work:** 
-* [NotesDay3](Notes/NotesDay3.md)
+* [NotesDay3](Intro_ML/Notes/NotesDay3.md)
 
 ## Day 4: September 13, 2021
 
@@ -54,7 +54,7 @@ of network science such as centrality measures, clustering coefficient, and grap
 converted to data that the ML model can interpret. 
 
 **Link of Work:** 
-* [NotesDay4](Notes/NotesDay4.md)
+* [NotesDay4](Graph_ML/Notes/NotesDay4.md)
 
 ## Day 5: September 14, 2021
 
@@ -66,7 +66,7 @@ understand the internals of linear regression.
 finding the vector of weights or coefficients form the Normal equation. 
 
 **Link of Work:** 
-* [NotesDay5](Notes/NotesDay5.md)
+* [NotesDay5](Regression/Notes/NotesDay5.md)
 
 ## Day 6: September 15, 2021
 
@@ -79,7 +79,7 @@ diagonal of this matrix, and in this way there are not duplicated colummns. Also
 explanations of all of these secions. 
 
 **Link of Work:** 
-* [NotesDay6](Notes/NotesDay6.md)
+* [NotesDay6](Regression/Notes/NotesDay6.md)
 
 ## Day 7: September 16, 2021
 
@@ -90,7 +90,7 @@ The homework was about the creation of a regression model for predicting apartme
 data and apply all the steps of pre-processing, data exploratory analysis, regularization, and fine-tuning. 
 
 **Link of Work:** 
-* [Jupyter notebook of the homework for the second week of mlzoomcamp](Regression/Homework_week2_mlzoomcamp_reg_car_price_pred.ipynb)
+* [Jupyter notebook of the homework for the second week of mlzoomcamp](Regression/Notebooks/Homework_week2_mlzoomcamp_reg_car_price_pred.ipynb)
 
 ## Day 8: September 17, 2021
 
@@ -102,7 +102,7 @@ I applied some new tools for me, including sklearn and pandas profiling librarie
 pandas profiling for EDA and Scikit-learn for pre-processing, regularization, fine-tuning, and training my models. 
 
 **Link of Work:** 
-* [Jupyter notebook of the House Prices - Advanced Regression Techniques competition](Regression/House_Prices_Advanced_Regression_Techniques_Kaggle.ipynb)
+* [Jupyter notebook of the House Prices - Advanced Regression Techniques competition](Regression/Notebooks/House_Prices_Advanced_Regression_Techniques_Kaggle.ipynb)
 
 ## Day 9: September 20, 2021
 
@@ -111,8 +111,7 @@ pandas profiling for EDA and Scikit-learn for pre-processing, regularization, fi
 **Thoughts:** I verified that all answers of my homework were correct, and I also learned different ways to solve the same questions. 
 
 **Link of Work:** 
-* [Jupyter notebook of the homework for the second week of mlzoomcamp](Regression/Homework_week2_mlzoomcamp_reg_car_price_pred.ipynb)
-
+* [Jupyter notebook of the homework for the second week of mlzoomcamp](Regression/Notebooks/Homework_week2_mlzoomcamp_reg_car_price_pred.ipynb)
 ## Day 10: September 21, 2021
 
 **Today's Progress:** I read most of the fourth chapter of the book [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). 
@@ -121,7 +120,7 @@ I learnt about Linear regression, and different ways to train this model, includ
 **Thoughts:** I enjoyed to learn different ways for training a linear model, as well as their advantages and downsides. Also, I understand how to interpret the learning curves, and the errors associated to underfitting and overfitting models. Finally, it was interesting to learn different ways to regularize a linear regression model. 
 
 **Link of Work:** 
-* [NotesDay10](Notes/NotesDay10.md)
+* [NotesDay10](Regression/Notes/NotesDay10.md)
 
 ## Day 11: September 22, 2021
 
@@ -130,7 +129,7 @@ I learnt about Linear regression, and different ways to train this model, includ
 **Thoughts:** I learned some useful concepts that I have never undertood, including risk ratio and mutual informations as metrics to measure the feature importance of categorical variables. Also, it was interesting to learn about logistic regression and sigmoid function as a model for solving a binary classification task. 
 
 **Link of Work:** 
-* [NotesDay11](Notes/NotesDay11.md)
+* [NotesDay11](Classification/Notes/NotesDay11.md)
 
 ## Day 12: September 24, 2021
 
@@ -140,7 +139,7 @@ The homework was about the creation of a classification model for predicting apa
 **Thoughts:** This homework was nice because it summarized all contents of the third week of mlzoomcamp. I encountered some problems with the convergence of Scikit-Learn's Logistic regression with the method `lbfgs`. Also, I realized that for classification tasks all the target values must be binarized to make the predictions. 
 
 **Link of Work:** 
-* [Jupyter notebook of the homework for the third week of mlzoomcamp](Classification/Homework_week3_mlzoomcamp_classification_churning.ipynb)
+* [Jupyter notebook of the homework for the third week of mlzoomcamp](Classification/Notebooks/Homework_week3_mlzoomcamp_classification_churning.ipynb)
 
 ## Day 13: September 27, 2021
 
@@ -149,8 +148,8 @@ The homework was about the creation of a classification model for predicting apa
 **Thoughts:** I verified that all answers of my homework were correct, and learned different ways to solve these questions. Also, I learned about Softmax Regression as a generalization of Logistic regression, and its cost function - cross entropy.
 
 **Link of Work:** 
-* [Jupyter notebook of the homework for the third week of mlzoomcamp](Classification/Homework_week3_mlzoomcamp_classification_churning.ipynb)
-* [NotesDay13](Notes/NotesDay11.md)
+* [Jupyter notebook of the homework for the third week of mlzoomcamp](Classification/Notebooks/Homework_week3_mlzoomcamp_classification_churning.ipynb)
+* [NotesDay13](Classification/Notes/NotesDay11.md)
 
 ## Day 14: September 29, 2021
 
@@ -160,7 +159,7 @@ In general, I learnt about different metrics to evaluate a binary classifier, in
 **Thoughts:** I enjoyed the videos of this session, especially the understanding of confusion table, a metric that I have never seen before. 
 
 **Link of Work:** 
-* [NotesDay14](Notes/NotesDay14.md)
+* [NotesDay14](Classification/Notes/NotesDay14.md)
 
 ## Day 15: September 30, 2021
 
@@ -170,7 +169,7 @@ I learnt about different metrics to evaluate a binary classifier, including ROC 
 **Thoughts:** I really like to understand the concepts of ROC curves and AUROC in a extended manner, which I have never did before. 
 
 **Link of Work:** 
-* [NotesDay15](Notes/NotesDay15.md)
+* [NotesDay15](Classification/Notes/NotesDay15.md)
 
 ## Day 16: October 1, 2021
 
@@ -181,3 +180,13 @@ The homework was about the evaluation of a classifier using different metrics le
 
 **Link of Work:** 
 * [Jupyter notebook of the homework for the fourth week of mlzoomcamp](Classification/Homework_week4_mlzoomcamp_classification_credit_scoring.ipynb)
+
+## Day 17: October 3, 2021
+
+**Today's Progress:** I read the third chapter of the book [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). 
+I learnt about binary classifiers, cross-validation, metrics to evaluate these models such as accuracy, confusion matrix, precision, recall, F1 score, ROC curves, and AUROC. Also, I understood the differences between multiclass, multilabel, and multioutput classifiers. 
+
+**Thoughts:** I found out interesting stratified k-fold cross-validation, precision/recall trade-off, PR and ROC curves, OvR and OvO strategies for multiclass classifiers, and multioutput classifiers. 
+
+**Link of Work:** 
+* [NotesDay17](Classification/Notes/NotesDay17.md)
