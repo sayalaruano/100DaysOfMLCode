@@ -190,3 +190,12 @@ I learnt about binary classifiers, cross-validation, metrics to evaluate these m
 
 **Link of Work:** 
 * [NotesDay17](Classification/Notes/NotesDay17.md)
+
+## Day 18: October 4, 2021
+
+**Today's Progress:** I attended the [week 5 ML Zoomcamp Office Hours](https://www.youtube.com/watch?v=JC3TQw34-m0). In this session, we reviewed the homework of this week and answered questions regarding metrics to evaluate a binary classifier such as confusion matrix, accuracy, precision, recall, F1 score, and AUROC. 
+
+**Thoughts:** I verified that all answers of my homework were correct, and learned different ways to solve these questions.
+
+**Link of Work:** 
+* [Jupyter notebook of the homework for the fourth week of mlzoomcamp](Classification/Homework_week4_mlzoomcamp_classification_credit_scoring.ipynb)

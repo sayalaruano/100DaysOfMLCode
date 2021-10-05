@@ -50,7 +50,7 @@ The **accuracy** corresponds to the sum of TN and TP divided by the total of obs
 
 The code of this project is available in [this jupyter notebook](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/04-evaluation/notebook.ipynb).  
 
-## 3.4 Precision and Recall
+## 4.4 Precision and Recall
 **Precision** tell us the fraction of positive predictions that are correct. It takes into account only the **positive class** (TP and FP - second column of the confusion matrix), as is stated in the following formula:
 
 <p align="center">
