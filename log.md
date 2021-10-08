@@ -199,3 +199,12 @@ I learnt about binary classifiers, cross-validation, metrics to evaluate these m
 
 **Link of Work:** 
 * [Jupyter notebook of the homework for the fourth week of mlzoomcamp](Classification/Homework_week4_mlzoomcamp_classification_credit_scoring.ipynb)
+
+## Day 19: October 7, 2021
+
+**Today's Progress:** I have completed half of the content for the [fifth week material of the mlzoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/05-deployment).
+In general, I learnt about how to save and load a machine learning model, an introduction to flask for creating a web service, and the process for serving a machine learning model as a web service.
+**Thoughts:** I loved to learn about flask, web services, and how to deploy a machine learning model in this platform. All of these knowledge was new for me, and I really enjoyed to learn about it.
+
+**Link of Work:**
+* [NotesDay19](Deployment/Notes/NotesDay19.md)
