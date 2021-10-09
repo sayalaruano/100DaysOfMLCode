@@ -1,6 +1,6 @@
 # NotesDay19 - Machine Learning Zoomcamp fifth week
 
-## 5.5 PyThon virtual environment: Pipenv
+## 5.5 Python virtual environment: Pipenv
 
 When we install a Python package with pip, the system looks up in the `$PATH` variable the location of the pip script in the file system. Then, pip goes to the [python package index](https://pypi.org/), and it installs the latest version of the package.
 
@@ -10,10 +10,10 @@ There are various alternatives for managing virtual environments, including **vi
 
 **Commands:**
 
-* `pipenv install x` - install an x package with a pipenv virtual environment.
+* `pipenv install "x == v"` - install an x library with a v version in a pipenv virtual environment.
 * `pipenv install` - install packages stored in the `Pipfile` and `Pipfile.lock`, with their specific versions.
 * `pipenv shell` - get in a particular virtual environment.
-* `pipenv exit` - exit from a pipenv virtual environment.
+* `exit` - exit from a pipenv virtual environment.
 * `pipenv run x` - run a command in a pipenv virtual environment without entering before using pipenv shell.  
 
 The scripts and notes of this session are available [here](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/chapter-05-deployment/05-deploy.ipynb).
