@@ -2,13 +2,11 @@ FROM agrigorev/zoomcamp-model:3.8.12-slim
 
 RUN pip install pipenv
 
-WORKDIR /app
-
 COPY ["Pipfile", "Pipfile.lock", "./"]
 
 RUN pipenv install --system --deploy
 
-COPY ["predict_as_web_service_q4.py", "model1.bin", "dv.bin", "./"]
+COPY ["predict_as_web_service_q4.py", "./"]
 
 EXPOSE 9696
 

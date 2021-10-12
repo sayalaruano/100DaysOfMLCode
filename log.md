@@ -211,7 +211,7 @@ In general, I learnt about python virtual environment management using pienv, sy
 
 * [NotesDay20](Deployment/Notes/NotesDay20.md)
 
-## Day 31: October 8, 2021
+## Day 21: October 8, 2021
 
 **Today's Progress:** I completed the homework for the [fifth week of mlzoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/05-deployment/homework.md). The homework was about loading a churning prediction ML model with pickle, serving it as a web service with flask, and using docker to isolate the environment for its execution.
 
@@ -220,3 +220,13 @@ In general, I learnt about python virtual environment management using pienv, sy
 **Link of Work:**
 
 * [md file with answers and links to python and docker file](Deployment/Homework_ml-zoomcamp_fifth_week/Homework_ml-zoomcamp_fifth_week.md)
+
+## Day 22: October 11, 2021
+
+**Today's Progress:** I attended the [week 6 ML Zoomcamp Office Hours](https://www.youtube.com/watch?v=JC3TQw34-m0). In this session, we reviewed the homework of the 5th week and answered questions regarding web services with pickle, pipenv, flask, gunicorn, docker, among other tools.
+
+**Thoughts:** I was wrong in two questions of the homework. These questions were about docker, so I need to review this content of the course.
+
+**Link of Work:**
+
+* [Answers of the homework for the fifth week of mlzoomcamp](Deployment/Homework_ml-zoomcamp_fifth_week.md)
