@@ -77,7 +77,7 @@ with various hyperparameters on the reduced training set, and select the model t
 trained on the full training set (train+val). 
 
 **Cross-validation:** each model is evaluated once per validation set after it is trained on the rest of the data. Then, averaging out all the evaluations of
-a model the performance measure is more accurate. Its drawback is that the training time is multiplied by the numer of validation sets. 
+a model the performance measure is more accurate. Its drawback is that the training time is multiplied by the number of validation sets. 
 
 **Data mismatch:** hold out some of the traning set in a new set called **train-dev set**, allowing to identify if the model is performing bad because 
 overfitting on training data or due to a mismatch between training and production data. 

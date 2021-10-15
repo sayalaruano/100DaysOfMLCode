@@ -230,3 +230,13 @@ In general, I learnt about python virtual environment management using pienv, sy
 **Link of Work:**
 
 * [Answers of the homework for the fifth week of mlzoomcamp](Deployment/Homework_ml-zoomcamp_fifth_week.md)
+
+## Day 23: October 14, 2021
+
+**Today's Progress:** I have completed half of the content for the [sixth week material of the mlzoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/06-trees).
+In general, I understand credit risk scoring project, its data preparation, the concept of decision trees and how it is the learning process of this algorithm.
+**Thoughts:** I liked to learn in deep the details behind decision trees and its learning process.
+
+**Link of Work:**
+
+* [NotesDay23](Decision_trees_Ensemble_learning/Notes/NotesDay23.md)

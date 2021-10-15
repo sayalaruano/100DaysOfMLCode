@@ -23,7 +23,7 @@ The code and dataset are available at this [link](https://github.com/alexeygrigo
 * pd.read.csv() - read csv files 
 * df.head() - take a look of the dataframe 
 * df.columns - retrieve colum names of a dataframe 
-* df.columns.str.lower() - lowercase all the letters 
+* df.columns.str.lower() - lowercase all the letters.
 * df.columns.str.replace(' ', '_') - replace the space separator 
 * df.dtypes - retrieve data types of all features 
 * df.index - retrive indices of a dataframe
@@ -46,7 +46,7 @@ The entire code of this project is available in [this jupyter notebook](https://
 **Numpy methods:**
 * np.log1p() - applies log transformation to a variable and adds one to each result 
 
-Long-tail distributions usually confuse the ML models, so the recommendation is to transform the target variable distribution to a normal one whenever possible. 
+Long-tail distributions usually confuse the ML models, so the recommendation is to transform the target variable distribution to a normal one whenever possible.
 
 The entire code of this project is available in [this jupyter notebook](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/chapter-02-car-price/02-carprice.ipynb).  
 
