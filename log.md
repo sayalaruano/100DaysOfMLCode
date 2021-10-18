@@ -240,3 +240,13 @@ In general, I understand credit risk scoring project, its data preparation, the 
 **Link of Work:**
 
 * [NotesDay23](Decision_trees_Ensemble_learning/Notes/NotesDay23.md)
+
+## Day 24: October 17, 2021
+
+**Today's Progress:** I have completed all content for the [sixth week material of the mlzoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/06-trees).
+In general, I learned about ensemble models, random forest, gradient boosting trees, and how to fine-tune these models.
+**Thoughts:** It was interesting to learn differences between random forest and gradient boosting trees, two types of ensemble models. Also, I liked to know about important parameters for these models and how to fine-tune them. 
+
+**Link of Work:**
+
+* [NotesDay24](Decision_trees_Ensemble_learning/Notes/NotesDay24.md)

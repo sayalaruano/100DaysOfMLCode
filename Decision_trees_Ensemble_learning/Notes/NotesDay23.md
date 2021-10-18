@@ -44,9 +44,9 @@ The entire code of this project is available in [this jupyter notebook](https://
 
 ## 5.4 Decision tree learning algorithm
 
-A decision tree is made of decision nodes that can be true or false, taking into account if a the value of a feature is greater or equal to a threshold. Also, there are decision nodes or leaves, which  are the lowest nodes in a tree.
+A decision tree is made of **decision nodes** that can be true or false, taking into account if a the value of a feature is greater or equal to a threshold. Also, there are leaves, which  are the lowest nodes in a tree.
 
-A key part of decision tree models are thresholds chose to compare features values in decision nodes. This decision can be made by different split evaluation criteria such as misclassification rate, a way to calculate impurity, which measures proportion of predictions' errors with respect to the expected decision. We need to consider the average impurity among left and right decision nodes. The best models aim to have the lowest impurity values.
+A key part of decision tree models are thresholds chose to compare features values in decision nodes. This decision can be made by different split evaluation criteria such as **misclassification rate**, a way to calculate **impurity**, which measures proportion of predictions' errors with respect to the expected decision. We need to consider the average impurity among left and right decision nodes. The best models aim to have the lowest impurity values.
 
 In brief, finding the best split algorithm can be summarized as follows:
 
@@ -54,7 +54,7 @@ In brief, finding the best split algorithm can be summarized as follows:
     * FIND ALL THRESHOLDS FOR F:
         * FOR T IN THRESHOLDS:
             * SPLIT DATASET USING "F>T" CONDITION
-                * COMPTE IMPURITY OF THIS SPLIT
+                * COMPUTE IMPURITY OF THIS SPLIT
 * SELECT THE CONDITION WITH THE LOWEST IMPURITY
 
 The algorithm can iterate until it completes all possible splits, but we can stablish a stopping criteria to define when we need to stop the splitting process. The stopping condition can be defined considering criteria such as:
