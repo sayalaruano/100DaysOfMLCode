@@ -250,3 +250,19 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [NotesDay24](Decision_trees_Ensemble_learning/Notes/NotesDay24.md)
+
+## Day 25: October 19, 2021
+
+**Today's Progress:** I attended the [week 7 ML Zoomcamp Office Hours](https://youtu.be/wWBm6MHu5u8). In this session, we reviewed information about the midterm project.
+
+**Thoughts:** I decided to work in the Open Bioinformatics Research Project proposed by Data Professor. This project is related to drug discovery studying betalactamase proteins. The dataset of this project is available [here](https://kaggle.com/thedataprof/betalactamase) and detailed information about project is explained in [this video](https://youtu.be/_GtEgiWWyK4) of Data Professor channel.
+
+## Day 26: October 20, 2021
+
+**Today's Progress:** I completed the homework for the [sixth week of mlzoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/06-trees/homework.md). In this homework, we created tree based models for solving a regression task, which was predicting apartment prices using Kaggle's dataset  [New York City Airbnb Open Data](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data?select=AB_NYC_2019.csv).
+
+**Thoughts:** I enjoyed this homework because I understand properly how tree based models work, and we applied these models for solving a regression task.
+
+**Link of Work:**
+
+* [Jupyter notebook of the homework for the sixth week of mlzoomcamp](Decision_trees_Ensemble_learning/Notebooks/Homework_week6_mlzoomcamp_tree_based_reg_airbnb_dataset.ipynb)
