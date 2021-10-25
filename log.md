@@ -266,3 +266,13 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [Jupyter notebook of the homework for the sixth week of mlzoomcamp](Decision_trees_Ensemble_learning/Notebooks/Homework_week6_mlzoomcamp_tree_based_reg_airbnb_dataset.ipynb)
+
+## Day 27: October 24, 2021
+
+**Today's Progress:** I started my midterm project of for the [mlzoomcamp course](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/07-midterm-project).  I decided to work in the Open Bioinformatics Research Project proposed by [Data Professor](https://github.com/dataprofessor), which is related to Computational Drug Discovery. I did the README of my project, a preliminary exploratory data analysis, and the calculation of 12 fingerprints for all molecules. 
+
+**Thoughts:** I enjoyed doing my project because drug discovery is the field that capture my interest for postgraduate studies, and it was really nice to learn more about it. I liked to learn about basic concepts of drug discovery, and how to apply this knowledge in a machine learning project.
+
+**Link of Work:**
+
+* [GitHub repository of my midterm project for the sixth week of mlzoomcamp](https://github.com/sayalaruano/MidtermProject-MLZoomCamp)
