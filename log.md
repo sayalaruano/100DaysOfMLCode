@@ -269,9 +269,19 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 
 ## Day 27: October 24, 2021
 
-**Today's Progress:** I started my midterm project of for the [mlzoomcamp course](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/07-midterm-project).  I decided to work in the Open Bioinformatics Research Project proposed by [Data Professor](https://github.com/dataprofessor), which is related to Computational Drug Discovery. I did the README of my project, a preliminary exploratory data analysis, and the calculation of 12 fingerprints for all molecules. 
+**Today's Progress:** I started my midterm project for the [mlzoomcamp course](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/07-midterm-project).  I decided to work in the Open Bioinformatics Research Project proposed by [Data Professor](https://github.com/dataprofessor), which is related to Computational Drug Discovery. I did the README of my project, a preliminary exploratory data analysis, and the calculation of 12 fingerprints for all molecules. 
 
 **Thoughts:** I enjoyed doing my project because drug discovery is the field that capture my interest for postgraduate studies, and it was really nice to learn more about it. I liked to learn about basic concepts of drug discovery, and how to apply this knowledge in a machine learning project.
+
+**Link of Work:**
+
+* [GitHub repository of my midterm project for the sixth week of mlzoomcamp](https://github.com/sayalaruano/MidtermProject-MLZoomCamp)
+
+## Day 28: October 25, 2021
+
+**Today's Progress:** I continued with my midterm project for the [mlzoomcamp course](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/07-midterm-project). I did additional EDA, and calculate molecular descriptors for 10 fingerprints, as well as the low variance features of these data. Also, I learned how to use github large file storage for uploading large files to Github.
+
+**Thoughts:** It was challenging to handle the large dataset in my laptop, so I performed most of calculation on Google colab, but this was a bit annoying time to time due to server disconnections and other issues. Despite of the problems, I obtained the data to train my ML models, and continue with my project.
 
 **Link of Work:**
 
