@@ -277,11 +277,11 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 
 * [GitHub repository of my midterm project for the sixth week of mlzoomcamp](https://github.com/sayalaruano/MidtermProject-MLZoomCamp)
 
-## Day 28: October 25, 2021
+## Day 29: October 26, 2021
 
-**Today's Progress:** I continued with my midterm project for the [mlzoomcamp course](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/07-midterm-project). I did additional EDA, and calculate molecular descriptors for 10 fingerprints, as well as the low variance features of these data. Also, I learned how to use github large file storage for uploading large files to Github.
+**Today's Progress:** I continued with my midterm project for the [mlzoomcamp course](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/07-midterm-project). I used Logistic Regression and Random Forest to train classifiers for my project. For this, I learned how to work with GridSearchCV class of sklearn, which allows to perform feature tuning and cross validation of sklearn models.
 
-**Thoughts:** It was challenging to handle the large dataset in my laptop, so I performed most of calculation on Google colab, but this was a bit annoying time to time due to server disconnections and other issues. Despite of the problems, I obtained the data to train my ML models, and continue with my project.
+**Thoughts:** I learned a lot working with GridSearchCV and tuning my classifiers to train the data of my project. However, the performance metrics of models I have tried have been very low, and I think that it can e related to overfitting. So, I need to come up with solutions to improve my classifier. 
 
 **Link of Work:**
 
