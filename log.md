@@ -281,7 +281,17 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 
 **Today's Progress:** I continued with my midterm project for the [mlzoomcamp course](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/07-midterm-project). I used Logistic Regression and Random Forest to train classifiers for my project. For this, I learned how to work with GridSearchCV class of sklearn, which allows to perform feature tuning and cross validation of sklearn models.
 
-**Thoughts:** I learned a lot working with GridSearchCV and tuning my classifiers to train the data of my project. However, the performance metrics of models I have tried have been very low, and I think that it can e related to overfitting. So, I need to come up with solutions to improve my classifier. 
+**Thoughts:** I learned a lot working with GridSearchCV and tuning my classifiers to train the data of my project. However, the performance metrics of models I have tried have been very low, and I think that it can e related to overfitting. So, I need to come up with solutions to improve my classifier.
+
+**Link of Work:**
+
+* [GitHub repository of my midterm project for the sixth week of mlzoomcamp](https://github.com/sayalaruano/MidtermProject-MLZoomCamp)
+
+## Day 30: October 26, 2021
+
+**Today's Progress:** I continued with my midterm project for the [mlzoomcamp course](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/07-midterm-project). I used XGBoost models as classifiers for my project. I learned how to use GridSearchCV and XGBoost library together for fine-tuning models' hyperparameters. Also, I evaluated all models using different performance metrics, and obtained the best model. However, my final model is overfitting, so I need to try to solve this problem in the coming days.
+
+**Thoughts:** It was interesting to learn how to integrate GridSearchCV and XGBoost, obtaining various scoring metrics for all models with cross validation at the same time. Also, I found that all my models were overfitting, so I need to think how to solve this problem, maybe for the next project.
 
 **Link of Work:**
 
