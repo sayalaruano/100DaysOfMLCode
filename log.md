@@ -296,3 +296,13 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [GitHub repository of my midterm project for the sixth week of mlzoomcamp](https://github.com/sayalaruano/MidtermProject-MLZoomCamp)
+
+## Day 31: November 1, 2021
+
+**Today's Progress:** I continued with my midterm project for the [mlzoomcamp course](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/07-midterm-project). I made python scripts for training the best machine learning model (random forest) and predicting molecules that bind to betalactamases and are the active ones.
+
+**Thoughts:** In general, I had a good progress. However, I was stuck with the python script to train my model because the input data had two indices, and I could not figure it out this problem for many hours. Also, I had problems with codification of JSON files in my web service with flask.
+
+**Link of Work:**
+
+* [GitHub repository of my midterm project for the sixth week of mlzoomcamp](https://github.com/sayalaruano/MidtermProject-MLZoomCamp)
