@@ -4,9 +4,9 @@
 
 When we install a Python package with pip, the system looks up in the `$PATH` variable the location of the pip script in the file system. Then, pip goes to the [python package index](https://pypi.org/), and it installs the latest version of the package.
 
-If we have two services in our system that use different versions of a Python package, we need to separate dependencies for each service to avoid possible conflicts. One way to manage dependencies for different services separately is by **virtual environments**, which has their own Python with specific packages, libraries' versions and dependencies.
+If we have two services in our system that use different versions of a Python packages, we need to separate dependencies for each service to avoid possible conflicts. One way to manage dependencies for different services separately is by **virtual environments**, which has their own Python with specific packages, libraries' versions and dependencies.
 
-There are various alternatives for managing virtual environments, including **virtual env** (venv), **conda**, **pipenv**, **poetry**, ***pyenv**, among others. In this lesson, we learned about pienv. Each pienv virtual environment has a `Pipfile` with the names and versions of packages installed in the virtual environment. `Dev-packages` are meant to be used only in the local system, not in the deployment. Pipenv environments also have a `Pipfile.lock`, a json file that contains versions of packages, and dependencies required for each package.
+There are various alternatives for managing virtual environments, including **virtual env** (venv), **conda**, **pipenv**, **poetry**, ***pyenv**, among others. In this lesson, we learned about pipenv. Each pipenv virtual environment has a `Pipfile` with the names and versions of packages installed in the virtual environment. `Dev-packages` are meant to be used only in the local system, not in the deployment. Pipenv environments also have a `Pipfile.lock`, a json file that contains versions of packages, and dependencies required for each package.
 
 **Commands:**
 
