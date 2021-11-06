@@ -311,7 +311,7 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 
 **Today's Progress:** I continued with my midterm project for the [mlzoomcamp course](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/07-midterm-project). I created a Python virtual environment with pipenv to manage libraries and dependencies. Also, a Dockerfile allowed to manage SO requirements, python packages,among other specifications to run the web service for predicting molecules that bind to betalactamases and are the active ones.
 
-**Thoughts:** The problem that I had with codification of JSON files was associated to duplicated indices, so I will fix this error leaving one single index. Also, I learn how to install java in a docker image for running PaDEL software. 
+**Thoughts:** The problem that I had with codification of JSON files was associated to duplicated indices, so I will fix this error leaving one single index. Also, I learn how to install java in a docker image for running PaDEL software.
 
 **Link of Work:**
 
@@ -326,3 +326,13 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [GitHub repository of my midterm project for the sixth week of mlzoomcamp](https://github.com/sayalaruano/MidtermProject-MLZoomCamp)
+
+## Day 34: November 6, 2021
+
+**Today's Progress:** I evaluated two projects from classmates of the [mlzoomcamp course](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/07-midterm-project). One of the projects was about a classification model that predicts whether a Spotify's track would be a 'Hit' or not, while the other had no information in its repo.
+
+**Thoughts:** I enjoyed evaluating my peers, these projects were interesting and I learned a couple of things such as the sklearn `feature_selection.f_classif` class for calculating ANOVA F-values between features and target variable to select the most relevant features.
+
+**Link of Work:**
+
+* [GitHub repository of midterm project from my peer](https://github.com/ashok-arora/ML-Zoomcamp/tree/main/mid_term_project)
