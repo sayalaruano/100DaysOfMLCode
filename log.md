@@ -336,3 +336,13 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [GitHub repository of midterm project from my peer](https://github.com/ashok-arora/ML-Zoomcamp/tree/main/mid_term_project)
+
+## Day 35: November 7, 2021
+
+**Today's Progress:** I evaluated one project from a classmate of the [mlzoomcamp course](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/07-midterm-project). The project was about a regression model that predicts house prices in Iowa.
+
+**Thoughts:** I enjoyed evaluating my peer, and I learned about `Pipelines`, `PCA`, and `ColumnTransformer` sklearn classes, which were a handful way to synthesize code to create th ML model. 
+
+**Link of Work:**
+
+* [GitHub repository of midterm project from my peer](https://github.com/rparthas/data/blob/master/zoomcamp/midterm/)
