@@ -346,3 +346,13 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [GitHub repository of midterm project from my peer](https://github.com/rparthas/data/blob/master/zoomcamp/midterm/)
+
+## Day 36: Nomvember 10, 2021
+
+**Today's Progress:** I watched the [week 10 ML Zoomcamp Office Hours](https://youtu.be/wWBm6MHu5u8). In this session, we reviewed information about the k neartest neighbors algorithm and sklearn Pipelines.
+
+**Thoughts:** I enjoyed learning about both the topics of this lesson. I think that sklearn pipelines are useful for writing readable and summarized code.
+
+**Link of Work:**
+
+* [Youtube video of this lesson](https://www.youtube.com/watch?v=jT0JTlPsAQ0).
