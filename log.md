@@ -347,7 +347,7 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 
 * [GitHub repository of midterm project from my peer](https://github.com/rparthas/data/blob/master/zoomcamp/midterm/)
 
-## Day 36: Nomvember 10, 2021
+## Day 36: November 10, 2021
 
 **Today's Progress:** I watched the [week 10 ML Zoomcamp Office Hours](https://youtu.be/wWBm6MHu5u8). In this session, we reviewed information about the k neartest neighbors algorithm and sklearn Pipelines.
 
@@ -356,3 +356,41 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [Youtube video of this lesson](https://www.youtube.com/watch?v=jT0JTlPsAQ0).
+
+## Day 37: November 11, 2021
+
+**Today's Progress:** I watched the 1st-3rd videos of [week 10 ML Zoomcamp](https://youtu.be/wWBm6MHu5u8). In this session, we reviewed the description of the project, a fashion classifier, learned about TensorFlow and Keras, and used a pre-trained convolutional neural network to make predictions on an image.
+
+**Thoughts:** It was interesting to learn about Tensorflow and Keras, and how to use a pre-trained neural network for making new predictions.
+
+**Link of Work:**
+
+* [NotesDay37_mlzoomcamp_10thweek_1](Neural_Networks/Notes/NotesDay37_mlzoomcamp_10thweek_1.md)
+
+## Day 38: November 12, 2021
+
+**Today's Progress:** I watched the 4th-7th videos of [week 10 ML Zoomcamp](https://youtu.be/wWBm6MHu5u8). In this session, we learned the theoretical fundamentals of CCNs, the concept of transfer learning and how to implement it, learning rate fine-tuning, and how to save the best models by checkpointing.
+
+**Thoughts:** I understood the theory behind CNNs and transfer learning, which were interesting and helpful concepts. Also, I learned how to implement this concept with keras.
+
+**Link of Work:**
+
+* [NotesDay38_mlzoomcamp_10thweek_2](Neural_Networks/Notes/NotesDay38_mlzoomcamp_10thweek_2.md)
+
+## Day 39: November 13, 2021
+
+**Today's Progress:** I watched the 8th-12th videos of [week 10 ML Zoomcamp](https://youtu.be/wWBm6MHu5u8). In this session, we learned how to add inner layers to a pre-trained CNN, some techniques of regularization such as dropout nd data augmentation.
+**Thoughts:** I enjoyed learning about the modification of the architecture of a CNN by adding inner layers, and regularization techniques.
+
+**Link of Work:**
+
+* [NotesDay39_mlzoomcamp_10thweek_3](Neural_Networks/Notes/NotesDay39_mlzoomcamp_10thweek_3.md)
+
+## Day 40: November 14, 2021
+
+**Today's Progress:** I completed the homework for the [tenth week of mlzoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/08-deep-learning/homework.md). In this homework, we built a CNN model for predicting if we have an image of a dog or a cat. For this, we used this [dataset](https://www.kaggle.com/c/dogs-vs-cats/data). 
+**Thoughts:** I enjoyed learning about the modification of the architecture of a CNN by adding inner layers, and regularization techniques.
+
+**Link of Work:**
+
+* 
