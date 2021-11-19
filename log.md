@@ -269,7 +269,7 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 
 ## Day 27: October 24, 2021
 
-**Today's Progress:** I started my midterm project for the [mlzoomcamp course](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/07-midterm-project).  I decided to work in the Open Bioinformatics Research Project proposed by [Data Professor](https://github.com/dataprofessor), which is related to Computational Drug Discovery. I did the README of my project, a preliminary exploratory data analysis, and the calculation of 12 fingerprints for all molecules. 
+**Today's Progress:** I started my midterm project for the [mlzoomcamp course](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/07-midterm-project).  I decided to work in the Open Bioinformatics Research Project proposed by [Data Professor](https://github.com/dataprofessor), which is related to Computational Drug Discovery. I did the README of my project, a preliminary exploratory data analysis, and the calculation of 12 fingerprints for all molecules.
 
 **Thoughts:** I enjoyed doing my project because drug discovery is the field that capture my interest for postgraduate studies, and it was really nice to learn more about it. I liked to learn about basic concepts of drug discovery, and how to apply this knowledge in a machine learning project.
 
@@ -386,11 +386,21 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 
 * [NotesDay39_mlzoomcamp_10thweek_3](Neural_Networks/Notes/NotesDay39_mlzoomcamp_10thweek_3.md)
 
-## Day 40: November 14, 2021
+## Day 40: November 19, 2021
 
-**Today's Progress:** I completed the homework for the [tenth week of mlzoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/08-deep-learning/homework.md). In this homework, we built a CNN model for predicting if we have an image of a dog or a cat. For this, we used this [dataset](https://www.kaggle.com/c/dogs-vs-cats/data). 
-**Thoughts:** I enjoyed learning about the modification of the architecture of a CNN by adding inner layers, and regularization techniques.
+**Today's Progress:** I watched the [week 11 ML Zoomcamp Office Hours](https://www.youtube.com/watch?v=1WRgdBTUaAc). In this session, we learned how to implement a CNN from scratch, including some key concepts of CCNs such as kernel size, max pooling, among others. Also, we learned how to implement a multi-layer perceptron neural network to work with tabular data. Finally, we learned about functional and sequential styles to create neural networks with keras.
+
+**Thoughts:** I enjoyed learning about all the topics of this lesson. Particularly, it was interesting to learn how CNNs identify patterns in images using kernels. Also, I find interesting the idea of multi-layer perceptron to work with tabular data.
 
 **Link of Work:**
 
-* 
+* [Youtube video of this lesson](https://www.youtube.com/watch?v=1WRgdBTUaAc).
+
+## Day 41: November 20, 2021
+
+**Today's Progress:** I completed the homework for the [tenth/eleventh week of mlzoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/08-deep-learning/homework.md). In this homework, we built a CNN model to classify images of dogs and cats. We used this [dataset](https://www.kaggle.com/c/dogs-vs-cats/data).
+**Thoughts:** I enjoyed learning how to implement a CNN from scratch (without a pre-trained model), including the addition of inputs, convolutional, pooling, and dense layers. Also, it was great to use image data loaders from keras.
+
+**Link of Work:**
+
+* [Jupyter notebook of the homework for the tenth/eleventh week of mlzoomcamp](Neural_Networks/Notebooks/homework_mlzoomcamp_week10_11_CNN.ipynb)
