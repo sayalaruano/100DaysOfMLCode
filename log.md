@@ -245,7 +245,7 @@ In general, I understand credit risk scoring project, its data preparation, the 
 
 **Today's Progress:** I have completed all content for the [sixth week material of the mlzoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/06-trees).
 In general, I learned about ensemble models, random forest, gradient boosting trees, and how to fine-tune these models.
-**Thoughts:** It was interesting to learn differences between random forest and gradient boosting trees, two types of ensemble models. Also, I liked to know about important parameters for these models and how to fine-tune them. 
+**Thoughts:** It was interesting to learn differences between random forest and gradient boosting trees, two types of ensemble models. Also, I liked to know about important parameters for these models and how to fine-tune them.
 
 **Link of Work:**
 
@@ -341,7 +341,7 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 
 **Today's Progress:** I evaluated one project from a classmate of the [mlzoomcamp course](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/07-midterm-project). The project was about a regression model that predicts house prices in Iowa.
 
-**Thoughts:** I enjoyed evaluating my peer, and I learned about `Pipelines`, `PCA`, and `ColumnTransformer` sklearn classes, which were a handful way to synthesize code to create th ML model. 
+**Thoughts:** I enjoyed evaluating my peer, and I learned about `Pipelines`, `PCA`, and `ColumnTransformer` sklearn classes, which were a handful way to synthesize code to create th ML model.
 
 **Link of Work:**
 
@@ -404,3 +404,23 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [Jupyter notebook of the homework for the tenth/eleventh week of mlzoomcamp](Neural_Networks/Notebooks/homework_mlzoomcamp_week10_11_CNN.ipynb)
+
+## Day 42: November 25, 2021
+
+**Today's Progress:** I watched the [week 11 ML Zoomcamp Office Hours](https://youtu.be/wWBm6MHu5u8). In this session, we reviewed the homework of the 10th week. In this homework, we built a CNN model to classify images of dogs and cats. We used this [dataset](https://www.kaggle.com/c/dogs-vs-cats/data).
+
+**Thoughts:** All the answers of this homework were correct.
+
+**Link of Work:**
+
+* [Youtube video of this lesson](https://www.youtube.com/watch?v=plqTzspLU8Y).
+
+## Day 43: November 26, 2021
+
+**Today's Progress:** I watched the 1st-4th videos of [week 11 ML Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/09-serverless). In this session, we reviewed the description of the project, a fashion classifier, learned about TensorFlow Lite, and AWS Lambda to deploy a mode without a server.
+
+**Thoughts:** It was interesting to learn about Tensorflow Lite as an alternative to export a lighten version of a DL model. Also, I enjoyed learning about AWS Lambda for deploying a DL model without a server.
+
+**Link of Work:**
+
+* [NotesDay43_mlzoomcamp_11thweek_1.md](Serverless_Deep_Learning/Notes/NotesDay43_mlzoomcamp_11thweek_1.md)
