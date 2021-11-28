@@ -60,7 +60,7 @@ In general, I learnt about data preparation, exploratory data analysis, setting 
 
 ## Day 6: September 15, 2021
 
-**Today's Progress:** I have completed all the content for the [second week material of the mlzoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/02-regression). This material included data preparation, exploratory data analysis, the validation framework, linear regression model, LR vector and normal forms, the baseline model, root mean squared error, feature engineering, regularization, tuning the model, and using the best model with new data. All these concepts were explanied using the problem to predict the price of cars.
+**Today's Progress:** I have completed all the content for the [second week material of the mlzoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/02-regression). This material included data preparation, exploratory data analysis, the validation framework, linear regression model, LR vector and normal forms, the baseline model, root mean squared error, feature engineering, regularization, tuning the model, and using the best model with new data. All these concepts were explained using the problem to predict the price of cars.
 
 **Thoughts:** For the first time, I understand regularization and what it represents in the feature matrix, which in brief adds some small values to the diagonal of this matrix, and in this way there are not duplicated columns. Also, it was interesting to see the entire workflow in a regression problem, including explanations of all of these sections.
 
@@ -424,3 +424,13 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [NotesDay43_mlzoomcamp_11thweek_1.md](Serverless_Deep_Learning/Notes/NotesDay43_mlzoomcamp_11thweek_1.md)
+
+## Day 44: November 27, 2021
+
+**Today's Progress:** I watched the 5th-8th videos of [week 11 ML Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/09-serverless). In this session, we created the docker image with all the requirements, the lambda function in AWS Lambda, and we used the AWS API Gateway to expose the lambda function as a web service.
+
+**Thoughts:** I enjoyed learning how to create a docker container with all the requirements to create a lambda function and then publish it as a web service using AWS Lambda and the AWS API Gateway.
+
+**Link of Work:**
+
+* [NotesDay44_mlzoomcamp_11thweek_1.md](Serverless_Deep_Learning/Notes/NotesDay44_mlzoomcamp_11thweek_2.md)
