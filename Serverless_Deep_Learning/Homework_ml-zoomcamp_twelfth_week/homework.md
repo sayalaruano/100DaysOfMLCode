@@ -1,9 +1,9 @@
 ## 9.10 Homework
 
-In this homework, we'll deploy the dogs vs cats model we trained in the previous 
+In this homework, we'll deploy the dogs vs cats model we trained in the previous
 homework.
 
-Download the model from here: 
+Download the model from here:
 
 https://github.com/alexeygrigorev/large-datasets/releases/download/dogs-cats-model/dogs_cats_10_0.687.h5
 
@@ -21,7 +21,6 @@ To be able to use this model, we need to know the index of the input and
 the index of the output. 
 
 What's the output index for this model? 
-
 
 ## Preparing the image
 

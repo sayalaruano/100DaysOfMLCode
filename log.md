@@ -407,7 +407,7 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 
 ## Day 42: November 25, 2021
 
-**Today's Progress:** I watched the [week 11 ML Zoomcamp Office Hours](https://youtu.be/wWBm6MHu5u8). In this session, we reviewed the homework of the 10th week. In this homework, we built a CNN model to classify images of dogs and cats. We used this [dataset](https://www.kaggle.com/c/dogs-vs-cats/data).
+**Today's Progress:** I watched the [week 12 ML Zoomcamp Office Hours](https://youtu.be/wWBm6MHu5u8). In this session, we reviewed the homework of the 10th week. In this homework, we built a CNN model to classify images of dogs and cats. We used this [dataset](https://www.kaggle.com/c/dogs-vs-cats/data).
 
 **Thoughts:** All the answers of this homework were correct.
 
@@ -417,20 +417,30 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 
 ## Day 43: November 26, 2021
 
-**Today's Progress:** I watched the 1st-4th videos of [week 11 ML Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/09-serverless). In this session, we reviewed the description of the project, a fashion classifier, learned about TensorFlow Lite, and AWS Lambda to deploy a mode without a server.
+**Today's Progress:** I watched the 1st-4th videos of [week 12 ML Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/09-serverless). In this session, we reviewed the description of the project, a fashion classifier, learned about TensorFlow Lite, and AWS Lambda to deploy a mode without a server.
 
 **Thoughts:** It was interesting to learn about Tensorflow Lite as an alternative to export a lighten version of a DL model. Also, I enjoyed learning about AWS Lambda for deploying a DL model without a server.
 
 **Link of Work:**
 
-* [NotesDay43_mlzoomcamp_11thweek_1.md](Serverless_Deep_Learning/Notes/NotesDay43_mlzoomcamp_11thweek_1.md)
+* [NotesDay43_mlzoomcamp_12thweek_1.md](Serverless_Deep_Learning/Notes/NotesDay43_mlzoomcamp_12thweek_1.md)
 
 ## Day 44: November 27, 2021
 
-**Today's Progress:** I watched the 5th-8th videos of [week 11 ML Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/09-serverless). In this session, we created the docker image with all the requirements, the lambda function in AWS Lambda, and we used the AWS API Gateway to expose the lambda function as a web service.
+**Today's Progress:** I watched the 5th-8th videos of [week 12 ML Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/09-serverless). In this session, we created the docker image with all the requirements, the lambda function in AWS Lambda, and we used the AWS API Gateway to expose the lambda function as a web service.
 
 **Thoughts:** I enjoyed learning how to create a docker container with all the requirements to create a lambda function and then publish it as a web service using AWS Lambda and the AWS API Gateway.
 
 **Link of Work:**
 
-* [NotesDay44_mlzoomcamp_11thweek_1.md](Serverless_Deep_Learning/Notes/NotesDay44_mlzoomcamp_11thweek_2.md)
+* [NotesDay44_mlzoomcamp_12thweek_1.md](Serverless_Deep_Learning/Notes/NotesDay44_mlzoomcamp_12thweek_2.md)
+
+## Day 41: November 20, 2021
+
+**Today's Progress:** I completed the homework for the [12th week of mlzoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/09-serverless/homework.md). In this homework, we deployed serverless CNN model to classify images of dogs and cats. For this purpose, we prepared a docker container with the model, a python script with the lambda function and the rest of the requirements, and we published this container in AWS Lambda.
+
+**Thoughts:** It was interesting to work in a serverless version of the CNN model that we cerated in the last homework. I liked how to create the docker container with all the requirements for the model, which is an efficient way to address the potential dependencies issues. Also, it was great to know how to work with AWS Lambda.
+
+**Link of Work:**
+
+* [Jupyter notebook of the homework for the 12th week of mlzoomcamp](Serverless_Deep_Learning/Homework_ml-zoomcamp_twelfth_week/Homework_ml-zoomcamp_twelfth_week.ipynb)
