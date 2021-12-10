@@ -435,12 +435,32 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 
 * [NotesDay44_mlzoomcamp_12thweek_1.md](Serverless_Deep_Learning/Notes/NotesDay44_mlzoomcamp_12thweek_2.md)
 
-## Day 41: November 20, 2021
+## Day 45: November 28, 2021
 
-**Today's Progress:** I completed the homework for the [12th week of mlzoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/09-serverless/homework.md). In this homework, we deployed serverless CNN model to classify images of dogs and cats. For this purpose, we prepared a docker container with the model, a python script with the lambda function and the rest of the requirements, and we published this container in AWS Lambda.
+**Today's Progress:** I completed the homework for the [12th week of mlzoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/09-serverless/homework.md). In this homework, we deployed a serverless CNN model to classify images of dogs and cats. For this purpose, we created the model with TensorFlow Lite, prepared a docker container with the model, a python script with the lambda function and the rest of the requirements, and we published this container in AWS Lambda.
 
-**Thoughts:** It was interesting to work in a serverless version of the CNN model that we cerated in the last homework. I liked how to create the docker container with all the requirements for the model, which is an efficient way to address the potential dependencies issues. Also, it was great to know how to work with AWS Lambda.
+**Thoughts:** It was interesting to work on a serverless version of the CNN model that we created in the last homework. I liked how to create the docker container with all the requirements for the model, which is an efficient way to address the potential dependencies issues. Also, it was great to know how to work with AWS Lambda.
 
 **Link of Work:**
 
 * [Jupyter notebook of the homework for the 12th week of mlzoomcamp](Serverless_Deep_Learning/Homework_ml-zoomcamp_twelfth_week/Homework_ml-zoomcamp_twelfth_week.ipynb)
+
+## Day 46: December 3, 2021
+
+**Today's Progress:** I started my capstone project for the [mlzoomcamp course](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/07-midterm-project).  I decided to work in machine/deep learning binary classifiers to predict the activity of antimicrobial peptides using this [dataset](biocom-ampdiscover.cicese.mx/dataset). I did the README of my project, an explored similar resources. I took a [notebook from Dataprofessor](https://github.com/dataprofessor/peptide-ml/blob/main/Antimicrobial_Peptide_QSAR.ipynb) about this topic as the starting point of my work.
+
+**Thoughts:** I enjoyed doing my project because drug discovery is the field that capture my interest for postgraduate studies, and it was really nice to learn more about it. I liked to learn about basic concepts of drug discovery, and how to apply this knowledge in a machine learning project.
+
+**Link of Work:**
+
+* [GitHub repository of my capstone project](https://github.com/sayalaruano/CapstoneProject-MLZoomCamp)
+
+## Day 47: December 9, 2021
+
+**Today's Progress:** I continued with my capstone project for the [mlzoomcamp course](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/07-midterm-project). I obtained 10 feature matrices using different molecular descriptors using [Pfeature](https://github.com/raghavagps/Pfeature). Also, I did the Exploratory data analysis of all the matrices, run many ML classifiers with LazyPredict, and chose the best ML models and feature matrices.
+
+**Thoughts:** I liked to use Pfeature to extract molecular descriptors from AMPs, cd-hit to delete redundant AMPs, and LazyPredict to calculate many classifiers in an easy and fast way.
+
+**Link of Work:**
+
+* [GitHub repository of my capstone project](https://github.com/sayalaruano/CapstoneProject-MLZoomCamp)
