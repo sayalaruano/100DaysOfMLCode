@@ -464,3 +464,13 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [GitHub repository of my capstone project](https://github.com/sayalaruano/CapstoneProject-MLZoomCamp)
+
+## Day 48: December 10, 2021
+
+**Today's Progress:** I continued with my capstone project for the [mlzoomcamp course](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/07-midterm-project). I identified the best feature matrix and the best ML classifier, which were the ExtraTreesClassifier with `max_depth` of 50 and `n_estimators` of 200 as parameters, and `Amino acid Composition` (aac_wp) as feature matrix. I evaluated the performance of the best model on the test and external dataset with metrics such as accuracy, precision, recall, f1 score, and MCC. Surprisingly, the evaluation results of our model were close to the best ones reported in this [article](https://pubs.acs.org/doi/full/10.1021/acs.jcim.1c00251).
+
+**Thoughts:** I was surprised about the great results of our best model, which performed as well as the state of the art methods to predict AMPs. Also, it was interesting that the Amino Acid Composition was the best feature matrix because of its simplicity.
+
+**Link of Work:**
+
+* [GitHub repository of my capstone project](https://github.com/sayalaruano/CapstoneProject-MLZoomCamp)
