@@ -474,3 +474,23 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [GitHub repository of my capstone project](https://github.com/sayalaruano/CapstoneProject-MLZoomCamp)
+
+## Day 49: December 12, 2021
+
+**Today's Progress:** I continued with my capstone project for the [mlzoomcamp course](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/07-midterm-project). I finished the jupyter notebook with EDA, feature matrices calculation, ML binary classifiers, hyperparameter fine-tuning, and selection of the best models. Also, I exported the best model as a web service using Flask, created a Pipenv environment to manage python dependencies, and a Docker file to handle OS requirements and dependencies.
+
+**Thoughts:** It was difficult to handle the dependencies to install Pfeature, which I used to calculate the molecular features of AMPs' sequences. There was a problem with Debian OS to install this python library, so I needed to search for a docker image with python and Ubuntu.
+
+**Link of Work:**
+
+* [GitHub repository of my capstone project](https://github.com/sayalaruano/CapstoneProject-MLZoomCamp)
+
+## Day 50: December 13, 2021
+
+**Today's Progress:** I finished my capstone project for the [mlzoomcamp course](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/07-midterm-project). I deployed the best ML binary classifier to predict AMPs' activity as a web service in Heroku using the Docker image I previously created. Also, I completed and reviewed all the sections of README file for the GitHub repository.
+
+**Thoughts:** I liked that Heroku allows to deploy web services with a Docker image, which makes this work easy. However, in this project I struggled a bit with the creation of the Docker image because some errors to install Pfeature python library with Docker images based on Debian OS.
+
+**Link of Work:**
+
+* [GitHub repository of my capstone project](https://github.com/sayalaruano/CapstoneProject-MLZoomCamp)
