@@ -494,3 +494,13 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [GitHub repository of my capstone project](https://github.com/sayalaruano/CapstoneProject-MLZoomCamp)
+
+## Day 51: December 17, 2021
+
+**Today's Progress:** I evaluated one classmate's project of the [mlzoomcamp course](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp). This project used the well-known titanic dataset, in which the aim is to predict the survival of passengers considering some of these features. This project has all the stages for a data science project and tried multiple ML models, including logistic regression, decision trees, random forest, xgboost, and neural networks.
+
+**Thoughts:** First, I liked the GitLab interface to store code projects. Regarding to the project, it was interesting that the best model was a decision tree instead of random forest or XGBoost, which usually perform better with tabular data. Also, the performance metrics were very high compared to other projects I have worked on.
+
+**Link of Work:**
+
+* [GitHub repository of my classmate's project](https://gitlab.com/hda-at/ml_zoomcamp_capstone)
