@@ -504,3 +504,13 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [GitHub repository of my classmate's project](https://gitlab.com/hda-at/ml_zoomcamp_capstone)
+
+## Day 52: December 18, 2021
+
+**Today's Progress:** I evaluated one classmate's project of the [mlzoomcamp course](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp). This project was about the creation of ML models to predict if a customer will purchase a product or not.  This project has all the stages for a data science project and tried multiple ML models, including xgboost, neural networks, and some tree-based classifiers.
+
+**Thoughts:** In this project, there were some sklearn classes I haven't worked with, including feature_selection to select the best features, MLPClassifier to work with neural networks, powertransformer to create pre-processing pipelines, and new ML classifiers such as BaggingClassifier, LGBMClassifier, and VotingClassifier. Also, it was interesting the use of optuna library for hyperparameter tuning.
+
+**Link of Work:**
+
+* [GitHub repository of my classmate's project](https://github.com/snikhil17/Customer_Shopping_Intention)
