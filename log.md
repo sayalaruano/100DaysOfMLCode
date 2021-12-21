@@ -517,10 +517,22 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 
 ## Day 53: December 19, 2021
 
-**Today's Progress:** I evaluated one classmate's project of the [mlzoomcamp course](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp). This project was about the creation of ML models to predict CO2 emissions of cars with certain technical characteristics. This project has all the stages for a data science project and tried multiple ML models, including linear regression, ridge regression, random forest, xgboost, and neural networks.
+**Today's Progress:** I evaluated one classmate's project of the [mlzoomcamp course](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp). This project was about the creation of ML models to predict CO2 emissions of vehicles considering certain technical characteristics. This project has all the stages for a data science project and tried multiple ML models, including linear regression, ridge regression, random forest, xgboost, and neural networks.
 
 **Thoughts:** I liked the task of the project, which took some features of vehicles, and predict their CO2 emissions. This can be helpful when you want to buy a vehicle. Also, I learned how to use the *TqdmCallback* class for tracking the progress of learning from NN models trained with Keras.
 
 **Link of Work:**
 
 * [GitHub repository of my classmate's project](https://github.com/DZorikhin/co2_emissions)
+
+## Day 54: December 20, 2021
+
+**Today's Progress:** I started the second course of the Coursera DeepLearning.AI specialization: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization. I watched the first five videos of week 1.
+
+**Thoughts:** It was interesting to learn the new conventions to split up the datasets for DL models. Also, I liked the tips provided to identify high variance or high bias models, and how to prevent these issues. Finally, I enjoyed to learn the intuition of regularization techniques.
+
+**Link of Work:**
+
+* [NotesDay54_DeepLearningAI_2ndcourse_1thweek_1.md](Neural_Networks/Notes/NotesDay54_DeepLearningAI_2ndcourse_1thweek_1.md)
+
+
