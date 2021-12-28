@@ -527,12 +527,20 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 
 ## Day 54: December 20, 2021
 
-**Today's Progress:** I started the second course of the Coursera DeepLearning.AI specialization: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization. I watched the first five videos of week 1.
+**Today's Progress:** I started the second course of the Coursera DeepLearning.AI specialization - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization. I watched the first five videos of week 1.
 
 **Thoughts:** It was interesting to learn the new conventions to split up the datasets for DL models. Also, I liked the tips provided to identify high variance or high bias models, and how to prevent these issues. Finally, I enjoyed to learn the intuition of regularization techniques.
 
 **Link of Work:**
 
-* [NotesDay54_DeepLearningAI_2ndcourse_1thweek_1.md](Neural_Networks/Notes/NotesDay54_DeepLearningAI_2ndcourse_1thweek_1.md)
+* [DeepLearningAI_2ndcourse_1thweek.md](Neural_Networks/Notes/DeepLearningAI_2ndcourse_1thweek.md)
 
+## Day 55: December 27, 2021
 
+**Today's Progress:** I finished the first week of the first course of the Coursera DeepLearning.AI specialization - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization. I watched all the videos and completed the programming assignments.
+
+**Thoughts:** I liked to learn about different regularization methods for DNN, including L2 regularization, dropout, data augmentation, and early stopping. Also, I found interesting the techniques applied to optimize the DL models such as normalization of inputs, how to handle possible problems with very high or very low values of gradients, and how to identify if the back propagation method is working well.
+
+**Link of Work:**
+
+* [DeepLearningAI_2ndcourse_1thweek.md](Neural_Networks/Notes/DeepLearningAI_2ndcourse_1thweek.md)
