@@ -544,3 +544,13 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [DeepLearningAI_2ndcourse_1thweek.md](Neural_Networks/Notes/DeepLearningAI_2ndcourse_1thweek.md)
+
+## Day 56: December 29, 2021
+
+**Today's Progress:** I watched all the videos and completed the quiz of the second week of the first course of the Coursera DeepLearning.AI specialization - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization. This week was about optimizaton algorithms to improve the DL algorithms.
+
+**Thoughts:** It was intteresting to learn about various implementations of gradient descend with improvements that makes this algorithm to run faster. Also, I nejoyed to learn about the strategy of learning rate decay and the local minimmums on high dimensional problems.
+
+**Link of Work:**
+
+* [DeepLearningAI_2ndcourse_2ndweek.md](Neural_Networks/Notes/DeepLearningAI_2ndcourse_2ndweek.md)
