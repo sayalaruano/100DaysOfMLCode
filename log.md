@@ -554,3 +554,9 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [DeepLearningAI_2ndcourse_2ndweek.md](Neural_Networks/Notes/DeepLearningAI_2ndcourse_2ndweek.md)
+
+## Day 57: January 06, 2021
+
+**Today's Progress:** I watched the 1st-3th videos of [week 13 ML Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/10-kubernetes). In these videos, we learned about the general idea of using kebernetes and tensorflow serving to deploy models in production environments. Also, we converted the tensorflowlite model to the tenforflow serving format, and we created the gateway or pre-processing service that allows to communicate the web service with tensorflow serving.
+
+**Thoughts:** It was interesting to use tensorflow serving and the flask gateway to communicate the DL model with the web service.
