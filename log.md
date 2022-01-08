@@ -560,3 +560,9 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Today's Progress:** I watched the 1st-3th videos of [week 13 ML Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/10-kubernetes). In these videos, we learned about the general idea of using kebernetes and tensorflow serving to deploy models in production environments. Also, we converted the tensorflowlite model to the tenforflow serving format, and we created the gateway or pre-processing service that allows to communicate the web service with tensorflow serving.
 
 **Thoughts:** It was interesting to use tensorflow serving and the flask gateway to communicate the DL model with the web service.
+
+## Day 58: January 07, 2021
+
+**Today's Progress:** I watched the 4th-6th videos of [week 13 ML Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/10-kubernetes). In these videos, we created the docker images for the TensorFlow serving and the gateway, and we used docker decompose to run both docker containers in the same network to communicate with each other. Also, we reviewd the general aspects of Kubernetes, which helps to deploy docker images to the cloud, manage them, scale up requests, and create multiple instances of the web services. Finally, we deployed an application into a Kubernetes cluster
+
+**Thoughts:** It was interesting to learn about Docker decompose to run multiple docker containers simultaneously in the same network to communicate with each otherand. Also, I liked Kubernetes to deploy containers into the cloud in a well structured manner.
