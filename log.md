@@ -563,6 +563,12 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 
 ## Day 58: January 07, 2021
 
-**Today's Progress:** I watched the 4th-6th videos of [week 13 ML Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/10-kubernetes). In these videos, we created the docker images for the TensorFlow serving and the gateway, and we used docker decompose to run both docker containers in the same network to communicate with each other. Also, we reviewd the general aspects of Kubernetes, which helps to deploy docker images to the cloud, manage them, scale up requests, and create multiple instances of the web services. Finally, we deployed an application into a Kubernetes cluster
+**Today's Progress:** I watched the 4th-6th videos of [week 13 ML Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/10-kubernetes). In these videos, we created the docker images for the TensorFlow serving and the gateway, and we used docker decompose to run both docker containers in the same network to communicate with each other. Also, we reviewd the general aspects of Kubernetes, which helps to deploy docker images to the cloud, manage them, scale up requests, and create multiple instances of the web services. Finally, we deployed an application into a Kubernetes cluster.
 
 **Thoughts:** It was interesting to learn about Docker decompose to run multiple docker containers simultaneously in the same network to communicate with each otherand. Also, I liked Kubernetes to deploy containers into the cloud in a well structured manner.
+
+## Day 59: January 08, 2021
+
+**Today's Progress:** I watched the 7th-9th videos of [week 13 ML Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/10-kubernetes). In these videos, we set up a kubernetes cluster the docker images for the TensorFlow serving and the gateway using kubectl and Kind. Also, we deployed the kubernetes cluster into EKS, an AWS' Kubernetes service.
+
+**Thoughts:** It was interesting to learn how to use Kind and kubectl to set up a kubernetes cluster with different services and pods. Also, I liked to learn about EKS, an AWS' Kubernetes service for deploying models organized on a kubernetes cluster into the cloud.
