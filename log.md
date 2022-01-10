@@ -572,3 +572,13 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Today's Progress:** I watched the 7th-9th videos of [week 13 ML Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/10-kubernetes). In these videos, we set up a kubernetes cluster the docker images for the TensorFlow serving and the gateway using kubectl and Kind. Also, we deployed the kubernetes cluster into EKS, an AWS' Kubernetes service.
 
 **Thoughts:** It was interesting to learn how to use Kind and kubectl to set up a kubernetes cluster with different services and pods. Also, I liked to learn about EKS, an AWS' Kubernetes service for deploying models organized on a kubernetes cluster into the cloud.
+
+## Day 60: January 10, 2021
+
+**Today's Progress:** I completed the homework for the [fourth week of mlzoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/10-kubernetes/homework.md). In this homework, we created a local Kubernetes cluster for a churning classifier using kubectl and Kind.
+
+**Thoughts:** I enjoyed applying the knowledge of this session about Kubernetes in a previous machine learning classifier of the course.
+
+**Link of Work:**
+
+* [Markdown file of the homework for kubernetes](Deployment/Homework_mlzoomcamp_kubernetes.md)
