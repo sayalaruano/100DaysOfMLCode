@@ -119,6 +119,8 @@ What is the value for `<Port>`?
 
 **Answer:** the value for <Port> is **9696**, as stated in the entrypoint for the Docker image.
 
+[Yaml file](./deployment.yaml)
+
 ## Question 5: Pod name
 
 Apply this deployment:
@@ -155,6 +157,8 @@ Fill it in. What do we need to write instead of `<???>`?
 Apply this config file.
 
 **Answer:** The app field should be `churn`, because that's the name of the app as stated inside `deployment.yaml`.
+
+[Yaml file](./service.yaml)
 
 ## Testing the service locally
 
