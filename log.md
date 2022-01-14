@@ -582,3 +582,9 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [Markdown file of the homework for kubernetes](Deployment/Homework_mlzoomcamp_kubernetes.md)
+
+## Day 61: January 13, 2021
+
+**Today's Progress:** I watched all the videos and completed the quiz from third week of Coursera DeepLearning.AI specialization second course - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization. This week was about hyperparameters, how to effectivetely do hyperparameter tuning by using an appropriate scale, batch normalization, multi-class calssification tasks with softmax, and a brief introduction to tensorflow.
+
+**Thoughts:** It was interesting to learn that random sampling with a proper scale is an effective way to choose hyperparameters. Also, I learnt about batch normalizaton, and how to implement this algorithm. Finally, we reviewed a brief introduction to tensorflow.
