@@ -588,3 +588,13 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Today's Progress:** I watched all the videos and completed the quiz from third week of Coursera DeepLearning.AI specialization second course - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization. This week was about hyperparameters, how to effectivetely do hyperparameter tuning by using an appropriate scale, batch normalization, multi-class calssification tasks with softmax, and a brief introduction to tensorflow.
 
 **Thoughts:** It was interesting to learn that random sampling with a proper scale is an effective way to choose hyperparameters. Also, I learnt about batch normalizaton, and how to implement this algorithm. Finally, we reviewed a brief introduction to tensorflow.
+
+## Day 62: January 16, 2021
+
+**Today's Progress:** I completed the programming assignment of third week of Coursera DeepLearning.AI specialization second course - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization. With this assignment, I also finished this course. The programming assignment was about a simple DL model to predict image lables of sign language digits using TensorFlow.
+
+**Thoughts:** It was interesting how to program a simple neural network with TensorFlow, which is quite easier than doing this process from scratch using numpy.
+
+**Link of Work:**
+
+* [Notebook of my programming assignment of the thrid week's Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization course](Neural_Networks/Deep_learning_Specialization_Coursera/Improving_Deep_Neural_Nets_Hyperparameter_Tuning_Regularization_Optimization/Week3/Tensorflow_introduction.ipynb)
