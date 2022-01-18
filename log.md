@@ -598,3 +598,13 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [Notebook of my programming assignment of the thrid week's Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization course](Neural_Networks/Deep_learning_Specialization_Coursera/Improving_Deep_Neural_Nets_Hyperparameter_Tuning_Regularization_Optimization/Week3/Tensorflow_introduction.ipynb)
+
+## Day 63: January 17, 2021
+
+**Today's Progress:** I attended the [week 1 Data engineering Zoomcamp Office Hours](https://youtu.be/wWBm6MHu5u8). In this session, we reviewed the overview of the course, and we talked about general questions.
+
+**Thoughts:** I am really excited with this course because most of the contents are new for me.
+
+**Link of Work:**
+
+* [Youtube video of this session](https://youtu.be/bkJZDmreIpA)
