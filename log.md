@@ -608,3 +608,13 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [Youtube video of this session](https://youtu.be/bkJZDmreIpA)
+
+## Day 64: January 21, 2021
+
+**Today's Progress:** I watched the 1th-7th videos of [week 1 DE Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/week_1_basics_n_setup). In these videos, we learned about the basics of docker, SQL, sqlalchemy, Postgres, and pgAdmin. We ran a docker container with Postgres, ingested the data into the database with the sqlalchemy python library , ran a container with pgAdmin, and made queries to the Postgres database with pgAdmin.
+
+**Thoughts:** I liked to remember the basics of SQL using Postgres as the database management system and pgAdmin to administrate SQL queries to the relational database. Also, it was great to use docker compose to run Postgres and pgAdmin containers in a single terminal and withot many parameters at the buiding of docker images. I also enjoyed learning how to ingest data into a relational database using sqlalchemy python ibrary.
+
+**Link of Work:**
+
+* [Videos of this session](https://www.youtube.com/playlist?list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb)
