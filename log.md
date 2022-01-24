@@ -618,3 +618,23 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [Videos of this session](https://www.youtube.com/playlist?list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb)
+
+## Day 65: January 22, 2021
+
+**Today's Progress:** I watched the 8th-10th videos of [week 1 DE Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/week_1_basics_n_setup). In these videos, we learned about terraform to manage the infrastructure and resources on Google Cloud Platform.
+
+**Thoughts:** I liked to learn how to manage resources in cloud providers using Terraform. These topics are entirely new for me, so I am trying to learn as much as I can.
+
+**Link of Work:**
+
+* [Videos of this session](https://www.youtube.com/playlist?list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb)
+
+## Day 66: January 23, 2021
+
+**Today's Progress:** I completed the homework for the [first week of dezoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/week_1_basics_n_setup/homework.md). In this homework, we created terraform infrastructure, and we practiced some queries with SQL.
+
+**Thoughts:** I enjoyed remembering SQL, and it was great to put in practice the oncepts of terraform and Google Cloud Platform.
+
+**Link of Work:**
+
+* [Markdown file of the homework](Data_Engineering/Docker_SQL_GCP_Terraform/homework_de_zoomcamp_week1.md)
