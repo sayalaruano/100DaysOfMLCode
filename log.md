@@ -638,3 +638,13 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [Markdown file of the homework](Data_Engineering/Docker_SQL_GCP_Terraform/homework_de_zoomcamp_week1.md)
+
+## Day 67: April 4, 2022
+
+**Today's Progress:** I have joined the 30DaysOfStreamlit challenge, and completed the first 3 days assignments. I set up my development environment for streamlit with conda, ran the streamlit demo app, chose VS Code as my IDE, created my hello world streamlit app, and learned about the `st.button` component to create a button widget.
+
+**Thoughts:** I enjoyed learning about the basic ideas of sreamlit. I understood all the contents, except for the on_click parameter of the `st.button`.
+
+**Link of Work:**
+
+* [Python scripts with streamlit code](Streamlit/)
