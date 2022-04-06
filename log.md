@@ -648,3 +648,13 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [Python scripts with streamlit code](Streamlit/)
+
+## Day 68: April 5, 2022
+
+**Today's Progress:** I commpleted the days 4 and 5 of the 30DaysOfStreamlit challenge. I watched a video by Ken Jee for creating a Dashboard with streamlit, and learned about the `st.write` function for writing text and arguments to streamlit apps.
+
+**Thoughts:** I enjoyed learning about creating a dashboard with streamlit, and I was amazed about how easy it was. I will try to create my own dashboard about the Sars-Cov2 variants of interests in Europe. Also, it was interesting how to use the write function to display different data such as md text, numbers, dataframes, and plots.
+
+**Link of Work:**
+
+* [Python scripts with streamlit code](Streamlit/)
