@@ -658,3 +658,13 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [Python scripts with streamlit code](Streamlit/)
+
+## Day 69: April 6, 2022
+
+**Today's Progress:** I commpleted the day 6 of the 30DaysOfStreamlit challenge. I learned about the basics of git and github, and how to create a github repository, which allows to deploy streamlit apps in the cloud.
+
+**Thoughts:** It was interesting to remind the basics of git and github, and how they can be used to deploy streamlit apps to the cloud.
+
+**Link of Work:**
+
+* [Python scripts with streamlit code](Streamlit/)
