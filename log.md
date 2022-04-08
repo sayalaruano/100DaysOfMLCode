@@ -668,3 +668,13 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [Python scripts with streamlit code](Streamlit/)
+
+## Day 70: April 7, 2022
+
+**Today's Progress:** I commpleted the day 7 of the 30DaysOfStreamlit challenge. I created and deployed a dashboard of weekly reports of SARS-CoV2 variants in Germany from 2020 until now with streamlit.
+
+**Thoughts:** I enjoyed deploying my first streamlit app to the cloud. It was easy and I will try to improve this project in the coming days.
+
+**Link of Work:**
+
+* [Strealit app](https://share.streamlit.io/sayalaruano/dashboard_sars-cov2_variants_europe/main/st_dashboard_1country.py)
