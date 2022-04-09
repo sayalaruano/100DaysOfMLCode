@@ -678,3 +678,13 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [Strealit app](https://share.streamlit.io/sayalaruano/dashboard_sars-cov2_variants_europe/main/st_dashboard_1country.py)
+
+## Day 71: April 8, 2022
+
+**Today's Progress:** I commpleted the days 8 and 9 of the 30DaysOfStreamlit challenge. I learned about the st.silder and st.line_chart functions.
+
+**Thoughts:** It was interesting how to create sliders with different date types like integers, float, and datatime. I realized that for creating sliders with any data type I should use st.selct_slider. Also, I enjoyed learning about the creation of line charts in streamlit.
+
+**Link of Work:**
+
+* [Python scripts with streamlit code](Streamlit/Scripts)

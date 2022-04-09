@@ -5,7 +5,7 @@ import plotly.graph_objects as go
 import plotly.express as px
 import streamlit as st
 # %%
-df_covid = pd.read_csv("data.csv")
+df_covid = pd.read_csv("../../Data/data.csv")
 
 # Add variants' common name 
 df_covid.loc[(df_covid["variant"] =="B.1.1.529"), "variant"] = "B.1.1.529 - Omicron"
