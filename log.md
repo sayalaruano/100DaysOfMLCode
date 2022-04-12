@@ -688,3 +688,13 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [Python scripts with streamlit code](Streamlit/Scripts)
+
+## Day 72: April 11, 2022
+
+**Today's Progress:** I commpleted the days 10 and 11 of the 30DaysOfStreamlit challenge. I learned about the st.slectbox and st.multiselect functions.
+
+**Thoughts:** It was interesting to learn about the select and multiselect streamlit functions. The interface of the multiselect is appealing and very useful for many applications.
+
+**Link of Work:**
+
+* [Python scripts with streamlit code](Streamlit/Scripts)
