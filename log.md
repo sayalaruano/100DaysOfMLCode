@@ -709,3 +709,13 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 
 * [GitHub repo of the dashboard](https://github.com/sayalaruano/Dashboard_SARS-CoV2_variants_Europe)
 * [Web app of the dashboard](https://share.streamlit.io/sayalaruano/dashboard_sars-cov2_variants_europe/main/st_dashboard_allcountries.py)
+
+## Day 74: April 15, 2022
+
+**Today's Progress:** I commpleted the days 12, 13, and 14 of the 30DaysOfStreamlit challenge. I learned about the st.checkbox function, [GitPod](https://www.gitpod.io/) to create a cloud development environment, and [streamlit components](https://docs.streamlit.io/library/components).
+
+**Thoughts:** I enjoyed learning about how to create isolated developing environments using GitPod, which is a very useful concept fro many programming projects. Also, it was interesting ti learn about streanlit components and how to create one of these components.
+
+**Link of Work:**
+
+* [Python scripts with streamlit code](Streamlit/Scripts)
