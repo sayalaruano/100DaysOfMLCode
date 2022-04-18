@@ -714,7 +714,17 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 
 **Today's Progress:** I commpleted the days 12, 13, and 14 of the 30DaysOfStreamlit challenge. I learned about the st.checkbox function, [GitPod](https://www.gitpod.io/) to create a cloud development environment, and [streamlit components](https://docs.streamlit.io/library/components).
 
-**Thoughts:** I enjoyed learning about how to create isolated developing environments using GitPod, which is a very useful concept fro many programming projects. Also, it was interesting ti learn about streanlit components and how to create one of these components.
+**Thoughts:** I enjoyed learning about how to create isolated developing environments using GitPod, which is a very useful concept for many programming projects. Also, it was interesting to learn about streamlit components and how to create one of these components.
+
+**Link of Work:**
+
+* [Python scripts with streamlit code](Streamlit/Scripts)
+
+## Day 75: April 17, 2022
+
+**Today's Progress:** I commpleted the days 15, 16, and 17 of the 30DaysOfStreamlit challenge. I learned about the st.latex, how to customize the theme of streamlit apps with a config.toml file, and st.secrets to store confidentail information.
+
+**Thoughts:** I learned to add latex code into streamlit apps, customize the theme of streamlit apps, and store confident information. Also, it was interesting the st.code function to create code cells.
 
 **Link of Work:**
 
