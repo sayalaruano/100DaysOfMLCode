@@ -722,9 +722,19 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 
 ## Day 75: April 17, 2022
 
-**Today's Progress:** I commpleted the days 15, 16, and 17 of the 30DaysOfStreamlit challenge. I learned about the st.latex, how to customize the theme of streamlit apps with a config.toml file, and st.secrets to store confidentail information.
+**Today's Progress:** I commpleted the days 15, 16, and 17 of the 30DaysOfStreamlit challenge. I learned about the st.latex function, how to customize the theme of streamlit apps with a config.toml file, and st.secrets to store confidentail information.
 
 **Thoughts:** I learned to add latex code into streamlit apps, customize the theme of streamlit apps, and store confident information. Also, it was interesting the st.code function to create code cells.
+
+**Link of Work:**
+
+* [Python scripts with streamlit code](Streamlit/Scripts)
+
+## Day 76: April 18, 2022
+
+**Today's Progress:** I commpleted the day 18 of the 30DaysOfStreamlit challenge. I learned about the st.file_uploader function, which allows to create a widget for uploading files.
+
+**Thoughts:** It was interesting how to use the st.file_uploader function and the pandas input/output functions for displaying a cv file.
 
 **Link of Work:**
 
