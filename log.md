@@ -739,3 +739,13 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [Python scripts with streamlit code](Streamlit/Scripts)
+
+## Day 77: April 20, 2022
+
+**Today's Progress:** I commpleted the days 19 and 20 of the 30DaysOfStreamlit challenge. I learned about some functions to customize the layout of streamlit apps, including st.set_page_config(layout="wide"), st.sidebar, st.expander, and st.columns. Also, I attended part of the twitter space about streamlit hosted by [Francesco Ciulla](https://twitter.com/FrancescoCiull4).
+
+**Thoughts:** I enjoyed learning how to customize the layout of an streamlit app with expanders, columns, and sidebars. Also, I learned a lot of useful concepts and ideas from the twiter space.
+
+**Link of Work:**
+
+* [Python scripts with streamlit code](Streamlit/Scripts)
