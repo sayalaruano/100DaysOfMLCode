@@ -749,3 +749,13 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [Python scripts with streamlit code](Streamlit/Scripts)
+
+## Day 78: April 22, 2022
+
+**Today's Progress:** I commpleted the days 21 and 22 of the 30DaysOfStreamlit challenge. I learned about the st.progress and st.form functions. The first one is applied to visualize a progress bar, while the second one allows to group various widged inputs and send all the data with a single click.
+
+**Thoughts:** It was interestung to learn about the st.form because it creates batch submits of various widged inputs. In this way, a streamlit app doesn't rerun everytime the user change a widged, and the app reruns only when the user click on the submit button.
+
+**Link of Work:**
+
+* [Python scripts with streamlit code](Streamlit/Scripts)
