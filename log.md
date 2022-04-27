@@ -752,9 +752,19 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 
 ## Day 78: April 22, 2022
 
-**Today's Progress:** I commpleted the days 21 and 22 of the 30DaysOfStreamlit challenge. I learned about the st.progress and st.form functions. The first one is applied to visualize a progress bar, while the second one allows to group various widged inputs and send all the data with a single click.
+**Today's Progress:** I commpleted the days 21 and 22 of the 30DaysOfStreamlit challenge. I learned about the st.progress and st.form functions. The first one is applied to visualize a progress bar, while the second one allows to group various widget inputs and send all the data with a single click.
 
-**Thoughts:** It was interestung to learn about the st.form because it creates batch submits of various widged inputs. In this way, a streamlit app doesn't rerun everytime the user change a widged, and the app reruns only when the user click on the submit button.
+**Thoughts:** It was interesting to learn about the st.form because it creates batch submits of various widget inputs. In this way, a streamlit app doesn't rerun everytime the user change a widged, and the app reruns only when the user click on the submit button.
+
+**Link of Work:**
+
+* [Python scripts with streamlit code](Streamlit/Scripts)
+
+## Day 79: April 26, 2022
+
+**Today's Progress:** I commpleted the days 23, 24, and 25 of the 30DaysOfStreamlit challenge. I learned about the st.experimental_get_query_params and st.session_state functions, and st.cache decorator The first one retrives the query parameters from urls, the second one allows to use session states and callbacks, and the last one improves the performance of streamlit apps.
+
+**Thoughts:** It was interesting to learn that urls have qurey parameters that the st.experimental_get_query_params function could recover. Also, I enjoyed learning about the st.cache decorator that improves the performance of streamlit apps by storing results of functions in the cache. Streamlit controls this process by hashing, referencing each hash to a specific result. Finally, I understood how to use st.sessio_state to share variables between various sessions and manipulate their state using callbacks.
 
 **Link of Work:**
 
