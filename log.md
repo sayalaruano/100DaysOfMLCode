@@ -769,3 +769,13 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [Python scripts with streamlit code](Streamlit/Scripts)
+
+## Day 80: April 27, 2022
+
+**Today's Progress:** I commpleted the days 26 and 27 of the 30DaysOfStreamlit challenge. I learned about how to use APIs in streamlit apps, and creating draggable and resizable dashboards with streamlit elements component.
+
+**Thoughts:** It was interesting to learn about how to use APIs with streamlit using the simple example of the bored API. Also, I loved the streamlit elemments componenets for creating customizable and appealing dashboards.
+
+**Link of Work:**
+
+* [Python scripts with streamlit code](Streamlit/Scripts)
