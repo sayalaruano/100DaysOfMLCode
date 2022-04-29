@@ -779,3 +779,13 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [Python scripts with streamlit code](Streamlit/Scripts)
+
+## Day 81: April 28, 2022
+
+**Today's Progress:** I commpleted the days 28 of the 30DaysOfStreamlit challenge. I learned about the streamlit-shap component for creating [shap](https://github.com/slundberg/shap) plots in streamlit apps.
+
+**Thoughts:** It was interesting how to create appealing plots from machine learning projects in stremlit apps usin the streamlit-shap component. I will use these explainable plots in my future ML projects.
+
+**Link of Work:**
+
+* [Python scripts with streamlit code](Streamlit/Scripts)
