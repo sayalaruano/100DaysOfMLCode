@@ -789,3 +789,13 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [Python scripts with streamlit code](Streamlit/Scripts)
+
+## Day 82: May 1, 2022
+
+**Today's Progress:** I commpleted the day 29 of the 30DaysOfStreamlit challenge. I learned about how to create a zero-shot learning text classifier using Streamlit and HuggingFace's Distilbart-mnli-12-3 model.
+
+**Thoughts:** It was interesting to learn about zero-shot learning, a ML strategy to recognize objects that were not observed during the training process. Also, I enjoyed learning about streamlit_option_menu, streamlit_tags, and st_aggrid streamlit components.
+
+**Link of Work:**
+
+* [Python scripts with streamlit code](Streamlit/Scripts)
