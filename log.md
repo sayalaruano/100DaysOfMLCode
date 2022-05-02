@@ -799,3 +799,13 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [Python scripts with streamlit code](Streamlit/Scripts)
+
+## Day 83: May 2, 2022
+
+**Today's Progress:** I commpleted the day 30 of the 30DaysOfStreamlit challenge. I learned about how to create an streamlit app to extract thumbnail images from YouTube videos.
+
+**Thoughts:** It was interesting to learn how to solve real world problems like the retrieval of thumbail images from youtube videos using streamlit apps.
+
+**Link of Work:**
+
+* [Python scripts with streamlit code](Streamlit/Scripts)
