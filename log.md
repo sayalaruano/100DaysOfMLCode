@@ -809,3 +809,14 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [Python scripts with streamlit code](Streamlit/Scripts)
+
+## Day 84: May 16, 2022
+
+**Today's Progress:** I started the MLOPs Zoomcamp course, hosted by the DataTalks.Club community. I attended the first live streaming of the course, and watched the first two introductory videos about the concept of MLOPs and the environment preparation. Also, I created a streamlit dashboard for a project of my owrk about phenology information fo tropical american plant species.
+
+**Thoughts:** It was interesting to learn about MLOPs, and the imortance of using good practices and proper tools to put ML models to production. The application of MLOPs practices allow us to automate work and create robust ML applications.
+
+**Link of Work:**
+
+* [MLOPs Zoomcamp repo](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/)
+* [Streamlit dashboard](https://share.streamlit.io/sayalaruano/summary_gbif_results_stapp/main/summary_results_GBIF_stapp.py)
