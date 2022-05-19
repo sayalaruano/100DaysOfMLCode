@@ -812,11 +812,21 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 
 ## Day 84: May 16, 2022
 
-**Today's Progress:** I started the MLOPs Zoomcamp course, hosted by the DataTalks.Club community. I attended the first live streaming of the course, and watched the first two introductory videos about the concept of MLOPs and the environment preparation. Also, I created a streamlit dashboard for a project of my owrk about phenology information fo tropical american plant species.
+**Today's Progress:** I started the MLOPs Zoomcamp course, hosted by the DataTalks.Club community. I attended the first live streaming of the course, and watched the first two introductory videos about the concept of MLOPs and the environment preparation. Also, I created a streamlit dashboard for a project of my work about phenology information fo tropical american plant species.
 
-**Thoughts:** It was interesting to learn about MLOPs, and the imortance of using good practices and proper tools to put ML models to production. The application of MLOPs practices allow us to automate work and create robust ML applications.
+**Thoughts:** It was interesting to learn about MLOPs, and the imortance of using good practices and proper tools to put ML models to production. Also, I understood how the application of MLOPs practices allows to automate work and create robust ML applications.
 
 **Link of Work:**
 
 * [MLOPs Zoomcamp repo](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/)
 * [Streamlit dashboard](https://share.streamlit.io/sayalaruano/summary_gbif_results_stapp/main/summary_results_GBIF_stapp.py)
+
+## Day 85: May 18, 2022
+
+**Today's Progress:** I watched the 2th-3th videos of [week 1 MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/01-intro). In these videos, we set the development environment for the course and how to create a ML regression model to predict a ride duration using [the dataset of New York taxis](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page).
+
+**Thoughts:** I had already most of the requirements installed in my coputer because I participated in teh last two courses organized by the DataTalks.Club community. I enjoyed learning about forward porting using an extension of VSCode, which seems to be very useful to work on jupyter notebooks ran in a remote machine from the host machine. Also, it was interesting to learn how to use pandas apply method and lambda functions to change the values from an entire column of a dataframe.
+
+**Link of Work:**
+
+* [MLOPs Zoomcamp repo](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/)
