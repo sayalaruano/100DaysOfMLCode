@@ -825,8 +825,18 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 
 **Today's Progress:** I watched the 2th-3th videos of [week 1 MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/01-intro). In these videos, we set the development environment for the course and how to create a ML regression model to predict a ride duration using [the dataset of New York taxis](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page).
 
-**Thoughts:** I had already most of the requirements installed in my coputer because I participated in teh last two courses organized by the DataTalks.Club community. I enjoyed learning about forward porting using an extension of VSCode, which seems to be very useful to work on jupyter notebooks ran in a remote machine from the host machine. Also, it was interesting to learn how to use pandas apply method and lambda functions to change the values from an entire column of a dataframe.
+**Thoughts:** I had already most of the requirements installed in my computer because I participated in the last two courses organized by the DataTalks.Club community. I enjoyed learning about forward porting using an extension of VSCode, which seems to be very useful to work on jupyter notebooks ran in a remote machine from the host machine. Also, it was interesting to learn how to use pandas apply method and lambda functions to change the values from an entire column of a dataframe.
 
 **Link of Work:**
 
 * [MLOPs Zoomcamp repo](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/)
+
+## Day 86: May 23, 2022
+
+**Today's Progress:** I watched the 4th-5th videos of [week 1 MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/01-intro). In these videos, I learned about the course overwiew and the levels of maturity of MLOps.
+
+**Thoughts:** It was interesting to learn about some limitations of jupyter notebooks for ML projects such as lack of modularity, experiemnt tracking, model resgitry, ML pipelines, deployment, model monitoring, among other useful concepts to automate ML processes. Also, I enjoyed learning about levels of maturity of MLOps and that it's not always desirable the hightes maturity level.
+
+**Link of Work:**
+
+* [Notes Week1 - MLOps Zoomcamp first week](MLOps/week1/Notes_week1_MLOps_zoomcamp.md)
