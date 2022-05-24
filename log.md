@@ -840,3 +840,13 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [Notes Week1 - MLOps Zoomcamp first week](MLOps/week1/Notes_week1_MLOps_zoomcamp.md)
+
+## Day 87: May 24, 2022
+
+**Today's Progress:** I completed the homework for the [first week of MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/01-intro). In this homework, we created a linear regression model for predicting the duration of a ride using [the dataset of New York taxis](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page).
+
+**Thoughts:** I liked the recap of all concepts learned during this week with the homework.
+
+**Link of Work:**
+
+* [Jupyter notebook of the Week1 mlopszoomcamp homework](MLOps/week1/homework_week1_MLOps_zoomcamp.ipynb)

@@ -1,4 +1,4 @@
-# Notes Week1 - MLOps Zoomcamp first week
+# Notes Week1 - MLOps Zoomcamp
 
 ## 1.4 Course overview
 
