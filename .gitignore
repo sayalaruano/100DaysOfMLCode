@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 Data/clothing-dataset-small-master.zip
 Data/dogs_and_cats_dataset_train_val.zip
+mlflow.db
+mlruns/

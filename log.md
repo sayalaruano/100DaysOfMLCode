@@ -850,3 +850,13 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [Jupyter notebook of the Week1 mlopszoomcamp homework](MLOps/week1/homework_week1_MLOps_zoomcamp.ipynb)
+
+## Day 88: May 28, 2022
+
+**Today's Progress:** I watched the 1th-3th videos of [week 2 MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/01-intro). In these videos, I learned about the basic concepts and the importance of experiment tracking, and how to apply this procedure with MLflow.
+
+**Thoughts:** It was interesting to learn about the reasons why experiemnt tracking is importance for ML projects, and how to implement these concepts in a real project using the open source library MLflow.
+
+**Link of Work:**
+
+* [Notes Week2 mlopszoomcamp](MLOps/week2/Notes_week2_MLOps_zoomcamp.md)
