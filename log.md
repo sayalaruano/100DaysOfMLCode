@@ -853,9 +853,19 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 
 ## Day 88: May 28, 2022
 
-**Today's Progress:** I watched the 1th-3th videos of [week 2 MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/01-intro). In these videos, I learned about the basic concepts and the importance of experiment tracking, and how to apply this procedure with MLflow.
+**Today's Progress:** I watched the 1th-3th videos of [week 2 MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/02-experiment-tracking). In these videos, I learned about the basic concepts and the importance of experiment tracking, and how to apply this procedure with MLflow.
 
 **Thoughts:** It was interesting to learn about the reasons why experiemnt tracking is importance for ML projects, and how to implement these concepts in a real project using the open source library MLflow.
+
+**Link of Work:**
+
+* [Notes Week2 mlopszoomcamp](MLOps/week2/Notes_week2_MLOps_zoomcamp.md)
+
+## Day 89: May 29, 2022
+
+**Today's Progress:** I watched the 4th-5th videos of [week 2 MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/02-experiment-tracking). In these videos, I learned about model management and model registry with MLflow.
+
+**Thoughts:** It was interesting to learn how to load and save ML models in different formats with MLflow. Also, I liked the MLflow interface to manage model registry, which could be accessed by the user interface dashboard and by code.
 
 **Link of Work:**
 
