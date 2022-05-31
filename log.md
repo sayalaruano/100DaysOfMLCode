@@ -870,3 +870,13 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [Notes Week2 mlopszoomcamp](MLOps/week2/Notes_week2_MLOps_zoomcamp.md)
+
+## Day 90: May 31, 2022
+
+**Today's Progress:** I completed the homework for the [second week of MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp/blob/main/02-experiment-tracking/homework.md). In this homework, we practiced how to use the MLflow package for experiment tracking, model management, and model registry by creating models for predicting the duration of a ride using [the dataset of New York taxis](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page).
+
+**Thoughts:** I liked the recap of all concepts learned during this week with the homework.
+
+**Link of Work:**
+
+* [Jupyter notebook of the Week1 mlopszoomcamp homework](MLOps/week1/homework_week1_MLOps_zoomcamp.ipynb)
