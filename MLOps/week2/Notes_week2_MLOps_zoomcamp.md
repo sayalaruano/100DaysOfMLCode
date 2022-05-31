@@ -77,7 +77,7 @@ In this lesson, we learned how to log ML models as artifacts with MLflow using t
 * `mlflow.pyfunc.load_model("x")` - load an ML model as a python function using the x uri model run path of mlflow.
 * `mlflow.xgboost.load_model("x")` - load an ML model as an xgboost object using the x run path of mlflow.
 
-## 2.4 Model registry
+## 2.5 Model registry
 
 After the experiment tracking process, we could register the models that are ready for production. Model registry is not deploying any model, it only ist the models ready for deployment. Some aspects to consider for deploying are the performance metrics, running time, and the sie of the model's file.
 
