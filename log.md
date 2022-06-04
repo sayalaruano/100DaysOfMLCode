@@ -879,4 +879,14 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 
 **Link of Work:**
 
-* [Jupyter notebook of the Week1 mlopszoomcamp homework](MLOps/week1/homework_week1_MLOps_zoomcamp.ipynb)
+* [folder of the Week2 mlopszoomcamp homework](https://github.com/sayalaruano/100DaysOfMLCode/tree/main/MLOps/week2/homework)
+
+## Day 91: June 4, 2022
+
+**Today's Progress:** I watched the 1th-3th videos of [week 3 MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/02-experiment-tracking). In these videos, I learned about negative engineering and workflow orchestration, and how to transform a python script into a prefect flow to implement workflow orchestration on it.
+
+**Thoughts:** It was interesting to learn about the importance of workflow orchestration for monitoring potential errors on ML projects. Also, I liked how to use prefect decorators to convert a python script into a prefect flow and visualize the results in the UI of prefect.
+
+**Link of Work:**
+
+* [Notes Week2 mlopszoomcamp](MLOps/week3/Notes_week3_MLOps_zoomcamp.md)
