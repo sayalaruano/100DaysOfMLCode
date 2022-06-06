@@ -889,4 +889,14 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 
 **Link of Work:**
 
-* [Notes Week2 mlopszoomcamp](MLOps/week3/Notes_week3_MLOps_zoomcamp.md)
+* [Notes Week3 mlopszoomcamp](MLOps/week3/Notes_week3_MLOps_zoomcamp.md)
+
+## Day 92: June 5, 2022
+
+**Today's Progress:** I watched the 4th-5th videos of [week 3 MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/02-experiment-tracking). In these videos, I learned about remote Prefect Orion deployment and deployment of a prefect flow.
+
+**Thoughts:** It was interesting to learn how to deploy a prefect orion server instance on an AWS hosted virtual machine, and the process to define a storage and a work queue with prefect.
+
+**Link of Work:**
+
+* [Notes Week3 mlopszoomcamp](MLOps/week3/Notes_week3_MLOps_zoomcamp.md)

@@ -20,28 +20,18 @@ In this lesson, we converted the python script into a prefect flow. Prefect allo
 
 * `@flow` - decorator to assign a flow with prefect.
 * `@task` - decorator to assign a task with prefect.
-* `mlflow.pyfunc.load_model("x")` - load an ML model as a python function using the x uri model run path of mlflow.
-* `mlflow.xgboost.load_model("x")` - load an ML model as an xgboost object using the x run path of mlflow.
 
-## 3.4 Model management
+## 3.4 Remote Prefect Orion deployment
 
-Machine learning lifecycle refers to the steps required to build and maintain a ML model. Model management covers experiment tracking, model versioning and deployment, and scaling hardware. After obtaining the best ML model, we should save, monitor its versions, and deploy it somewhere.
+In this lesson, we deployed a prefect orion server instance on a AWS hosted virtual machine. We created some security permissions to access the cloud instance, specifically the http with the 4200 port. Then, we run some commands to work with prefect on this environment.
 
-We could use a folder system as a basic way to manage our ML models, but this strategy is error-prone, without versioning, and there is no model lineage (parameters, data, and other information).
+## 3.5 Deployment of Prefect flow
 
-In this lesson, we learned how to log ML models as artifacts with MLflow using two methods: log_artifact (consider the model as another artifact - not very useful) and log_model (more information is stored).
+In this lesson, we deployed the prefect flow on a remote prefect orion server. First, we should define a place to storage the flow information. In this case, we used a SubprocessFLowRunner, which means that we only have a Python script (no docker or kubernetes). Then, we created a work queue with an agent that looks for work to do.
+
+It's possible to integrate MLflow with Prefect to create a flow that runs for specific periods of time compare the new models with the previous ones, and decide to update the production model.
 
 **Commands:**
 
-* `mlflow.log_artifact(local_path="x", artifact_path="y")` - save a model with an x artifact location and a y path to save the model.
-* `mlflow.xgboost.log_model(x, artifact_path="y")` - save an x model and its metadata into a y path.
-* `mlflow.pyfunc.load_model("x")` - load an ML model as a python function using the x uri model run path of mlflow.
-* `mlflow.xgboost.load_model("x")` - load an ML model as an xgboost object using the x run path of mlflow.
-
-## 3.5 Model registry
-
-After the experiment tracking process, we could register the models that are ready for production. Model registry is not deploying any model, it only ist the models ready for deployment. Some aspects to consider for deploying are the performance metrics, running time, and the sie of the model's file.
-
-MLflow allows to register a model with the "Register Model" button of the dashboard. Then, you could access these version fo the ML model with the "Models" tab. After this process, we could assign the model versions to a category such as staging, production, and archived. Then, we could interact by code with the information of registry models using the MLflow client.
-
-In summary, the model registry is a centralized model store, set of APIs, and a UI, to collaboratively manage the full lifecycle of an MLflow model. It provides a model linage (information about how the model was built), model versioning, stage transitions, and annotations.
+* `prefect storage ls` - verify the storage of a prefect flow.
+* `prefect storage create` - define a place to storage information of a prefect flow.
