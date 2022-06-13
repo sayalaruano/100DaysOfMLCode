@@ -900,3 +900,13 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [Notes Week3 mlopszoomcamp](MLOps/week3/Notes_week3_MLOps_zoomcamp.md)
+
+## Day 93: June 12, 2022
+
+**Today's Progress:** I completed the homework for the [third week of MLOps Zoomcamp](https://github.com/sayalaruano/mlops-zoomcamp/tree/main/03-orchestration). In this homework, we practiced how to use the Prefect package for different ML model orchestration tasks by creating models for predicting the duration of a ride using [the dataset of New York taxis](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page).
+
+**Thoughts:** I liked the recap of all concepts learned during this week with the homework.
+
+**Link of Work:**
+
+* [Python script for the homework of week3](MLOps/week3/homework/homework.py)
