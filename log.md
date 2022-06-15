@@ -910,3 +910,14 @@ In general, I learned about ensemble models, random forest, gradient boosting tr
 **Link of Work:**
 
 * [Python script for the homework of week3](MLOps/week3/homework/homework.py)
+
+## Day 94: June 15, 2022
+
+**Today's Progress:** I discovered [Binder](https://mybinder.org/), a tool for sharing programming resources in reproducible and executable environments. I created an interactive presentation for my current job using a jupyter notebook and the [RISE](https://rise.readthedocs.io/en/stable/) python package.
+
+**Thoughts:** I loved to use a jupyter notebook to create an intercative presentation using RISE, and sharing this presentation with my tutors that do not have programming experience in Python using Binder. It was easy to set up this presentation and I really enjoyed it.
+
+**Link of Work:**
+
+* [GitHub repo of the jupyter notebook](https://github.com/sayalaruano/Summary_GBIF_results_jupyter_notebook)
+* [Jupyter notebook hosted on Binder](https://mybinder.org/v2/gh/sayalaruano/Summary_GBIF_results_jupyter_notebook/bbbf3602f89b443dca73677456e4c39c207da4d9?filepath=Presentation_15062022_meeting.ipynb)
